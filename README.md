@@ -29,6 +29,7 @@ para Vulkan / Direct3D 12.
 - [Ferramentas: editor de texturas, de modelos e tradutor](#ferramentas)
 - [Problemas conhecidos](#problemas-conhecidos)
 - [Agradecimentos](#agradecimentos)
+- [Uso de IA](#uso-de-ia)
 
 ## O que tem
 
@@ -382,6 +383,13 @@ Em desenvolvimento. O jogo já é jogável no PC e no Android; outros problemas 
 - **SDL3**, **Vulkan / volk / VMA**, **Dear ImGui**, **libadrenotools** e os outros projetos listados em
   `CREDITS.md` e `THIRD_PARTY_NOTICES.md`.
 
+## Uso de IA
+
+Este projeto foi feito com a ajuda de inteligência artificial: o **[Claude](https://claude.ai)** (Anthropic), pelo
+Claude Code, escreveu e depurou boa parte do código (recompilação, renderizador, Android, menus, mods, ferramentas) e
+da documentação, sempre guiado, testado e revisado pelo autor, que jogou o jogo inteiro nele. Os commits feitos com a
+IA aparecem com o Claude como coautor.
+
 ## Licença
 
 Distribuído sob a **GPL-3.0** (`LICENSE`), porque inclui o Renut (GPL-3.0). NieR é marca da Square Enix; este projeto
@@ -664,6 +672,13 @@ Work in progress. The game is playable on PC and Android; other issues are track
 - **ReXGlue SDK**, the base of the static recompilation.
 - **SDL3**, **Vulkan / volk / VMA**, **Dear ImGui**, **libadrenotools** and the other projects listed in `CREDITS.md`
   and `THIRD_PARTY_NOTICES.md`.
+
+## AI disclosure
+
+This project was made with the help of artificial intelligence: **[Claude](https://claude.ai)** (Anthropic), through
+Claude Code, wrote and debugged much of the code (recompilation, renderer, Android, menus, mods, tools) and of the
+documentation, always directed, tested and reviewed by the author, who played the whole game on it. Commits made with
+the AI list Claude as a co-author.
 
 ## License
 
