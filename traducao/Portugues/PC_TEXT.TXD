@@ -1,0 +1,301 @@
+﻿9000100	Video Options	Opções de Vídeo	Options vidéo	Videooptionen
+9000110	Adjust resolution, image quality and display settings.	Ajuste a resolução, a qualidade da imagem e a tela.	Régler la résolution, la qualité d'image et l'affichage.	Auflösung, Bildqualität und Anzeige einstellen.
+9000120	Control Options	Opções de Controle	Commandes	Steuerung
+9000140	Language	Idioma	Langue	Sprache
+9000150	Change the language of the game text.	Mude o idioma dos textos do jogo.	Changer la langue du texte du jeu.	Sprache des Spieltexts ändern.
+9000160	Quit to Desktop	Sair para o Desktop	Quitter le jeu	Spiel beenden
+9000170	Close the game. Progress since the last save is lost.	Fecha o jogo. O progresso desde o último save é perdido.	Fermer le jeu. La progression non sauvegardée est perdue.	Spiel schließen. Nicht gespeicherter Fortschritt geht verloren.
+9000180	Quit the game and return to the desktop?	Sair do jogo e voltar ao desktop?	Quitter le jeu et revenir au bureau ?	Spiel beenden und zum Desktop zurückkehren?
+9001000	Performance Meter	Medidor de Desempenho	Compteur de performances	Leistungsanzeige
+9001010	Shows real fps, frame time, GPU and CPU use. Shortcut: F2.	Mostra fps reais, tempo de quadro, uso de GPU e CPU. Atalho: F2.	Affiche les fps réels, le temps d'image et l'usage GPU et CPU. Raccourci : F2.	Zeigt echte fps, Bildzeit sowie GPU- und CPU-Last. Kürzel: F2.
+9001020	Window Mode	Modo de Tela	Mode d'affichage	Fenstermodus
+9001030	Fullscreen or windowed.	Tela cheia ou janela.	Plein écran ou fenêtré.	Vollbild oder Fenster.
+9001040	Fullscreen	Tela Cheia	Plein écran	Vollbild
+9001050	Windowed	Janela	Fenêtré	Fenster
+9001060	Resolution	Resolução	Résolution	Auflösung
+9001070	Window size and how many pixels are drawn.	Tamanho da janela e quantos pixels são desenhados.	Taille de la fenêtre et nombre de pixels dessinés.	Fenstergröße und wie viele Pixel gezeichnet werden.
+9001080	Resolution Scale	Escala de Resolução	Échelle de résolution	Auflösungsskalierung
+9001090	Below 100% draws fewer pixels and scales up (use AMD FSR): much lighter. Above: sharper but heavier.	Abaixo do tamanho real desenha menos pixels e amplia (use AMD FSR): bem mais leve. Acima: mais nítido, porém mais pesado.	Sous 100 %, moins de pixels sont dessinés puis agrandis (utilisez AMD FSR) : bien plus léger. Au-dessus : plus net mais plus lourd.	Unter 100 % werden weniger Pixel gezeichnet und hochskaliert (AMD FSR nutzen): viel leichter. Darüber: schärfer, aber schwerer.
+9001100	3D Sharpness	Nitidez 3D	Netteté 3D	3D-Schärfe
+9001110	The game's inner 3D resolution. Auto stays Highest while the frame rate limit is reached and lowers it only as much as needed.	A resolução 3D interna do jogo. Auto fica na Máxima enquanto o limite de quadros é atingido e só baixa o necessário.	Résolution 3D interne du jeu. Auto reste au maximum tant que la limite d'images est atteinte et ne la baisse que si nécessaire.	Interne 3D-Auflösung des Spiels. Auto bleibt auf Höchste, solange das Bildratenlimit erreicht wird, und senkt sie nur so weit wie nötig.
+9001120	Auto	Auto	Auto	Auto
+9001130	Lowest	Mínima	Minimale	Niedrigste
+9001140	Medium	Média	Moyenne	Mittel
+9001150	Highest	Máxima	Maximale	Höchste
+9001160	Lowest 3D Sharpness	Nitidez 3D Mínima	Netteté 3D minimale	Niedrigste 3D-Schärfe
+9001170	Size of the Lowest level (and of Auto when the game struggles). Smaller is lighter.	Tamanho do nível Mínima (e do Auto quando o jogo pesa). Menor é mais leve.	Taille du niveau minimal (et d'Auto quand le jeu peine). Plus petit est plus léger.	Größe der niedrigsten Stufe (und von Auto, wenn das Spiel kämpft). Kleiner ist leichter.
+9001180	768x432 (original)	768x432 (original)	768x432 (original)	768x432 (Original)
+9001190	Frame Rate	Taxa de Quadros	Fréquence d'images	Bildrate
+9001200	60 fps in gameplay. Heavier: at 1080p or more the GPU may not keep up.	60 fps no jogo. Mais pesado: em 1080p ou mais a GPU pode não acompanhar.	60 fps en jeu. Plus lourd : en 1080p ou plus, le GPU peut ne pas suivre.	60 fps im Spiel. Schwerer: ab 1080p kommt die GPU eventuell nicht mit.
+9001210	V-Sync	V-Sync	Synchro verticale	V-Sync
+9001220	Off, the game loses its frame pacing. Recommended: on.	Desligado, o jogo perde o ritmo dos quadros. Recomendado: ligado.	Désactivée, le jeu perd la régularité de ses images. Recommandé : activée.	Aus verliert das Spiel seinen Bildtakt. Empfohlen: an.
+9001230	Off (unstable)	Desligado (instável)	Désactivée (instable)	Aus (instabil)
+9001240	Off, frames do not wait for the display (may tear) and can pass its rate.	Desligado, os quadros não esperam a tela (pode rasgar) e podem passar da taxa dela.	Désactivée, les images n'attendent pas l'écran (déchirures possibles) et peuvent dépasser sa fréquence.	Aus warten die Bilder nicht auf den Bildschirm (Tearing möglich) und können seine Rate übersteigen.
+9001250	Frame Rate Limit	Limite de Quadros	Limite d'images	Bildratenlimit
+9001260	Frames per second, up to Unlimited. With V-Sync on the display also limits it. More fps is heavier.	Quadros por segundo, até Ilimitado. Com V-Sync ligado a tela também limita. Mais fps é mais pesado.	Images par seconde, jusqu'à Illimité. Avec la synchro verticale, l'écran la limite aussi. Plus de fps est plus lourd.	Bilder pro Sekunde, bis Unbegrenzt. Mit V-Sync begrenzt auch der Bildschirm. Mehr fps ist schwerer.
+9001270	Unlimited	Ilimitado	Illimité	Unbegrenzt
+9001280	Anti-Aliasing (MSAA)	Antisserrilhado (MSAA)	Anticrénelage (MSAA)	Kantenglättung (MSAA)
+9001290	Smooths jagged edges. Each step costs more GPU time.	Suaviza bordas serrilhadas. Cada nível custa mais tempo de GPU.	Adoucit les bords crénelés. Chaque niveau coûte plus de temps GPU.	Glättet gezackte Kanten. Jede Stufe kostet mehr GPU-Zeit.
+9001300	Anisotropic Filter	Filtro Anisotrópico	Filtre anisotrope	Anisotroper Filter
+9001310	Sharp textures at slanted angles (floors, walls).	Texturas nítidas em ângulos inclinados (chão, paredes).	Textures nettes vues de biais (sols, murs).	Scharfe Texturen in schrägen Winkeln (Böden, Wände).
+9001320	Game's	Do jogo	Du jeu	Des Spiels
+9001330	Anti-Aliasing	Antisserrilhado	Anticrénelage	Kantenglättung
+9001340	Smooths jagged edges.	Suaviza bordas serrilhadas.	Adoucit les bords crénelés.	Glättet gezackte Kanten.
+9001350	FXAA Extreme	FXAA Extremo	FXAA extrême	FXAA Extrem
+9001360	MSAA 2x	MSAA 2x	MSAA 2x	MSAA 2x
+9001370	The Xbox 360's own anti-aliasing.	O antisserrilhado do próprio Xbox 360.	L'anticrénelage de la Xbox 360.	Die eigene Kantenglättung der Xbox 360.
+9001380	Upscaling	Ampliação	Mise à l'échelle	Hochskalierung
+9001390	How the image is scaled to the screen.	Como a imagem é ajustada à tela.	Comment l'image est adaptée à l'écran.	Wie das Bild auf den Bildschirm skaliert wird.
+9001400	Bilinear	Bilinear	Bilinéaire	Bilinear
+9001410	AMD CAS (sharpness)	AMD CAS (nitidez)	AMD CAS (netteté)	AMD CAS (Schärfe)
+9001420	AMD FSR	AMD FSR	AMD FSR	AMD FSR
+9001430	Black Bars	Barras Pretas	Bandes noires	Schwarze Balken
+9001440	Keeps 16:9 on screens of another shape.	Mantém 16:9 em telas de outro formato.	Garde le 16:9 sur les écrans d'un autre format.	Behält 16:9 auf Bildschirmen anderer Form.
+9001450	Full Effects	Efeitos Completos	Effets complets	Volle Effekte
+9001460	Fog and other full-screen effects. Recommended: on.	Névoa e outros efeitos de tela cheia. Recomendado: ligado.	Brouillard et autres effets plein écran. Recommandé : activés.	Nebel und andere Vollbildeffekte. Empfohlen: an.
+9001470	Off	Desligado	Désactivé	Aus
+9001480	On	Ligado	Activé	An
+9001490	 (Takes effect after restarting the game.)	 (Vale depois de reiniciar o jogo.)	 (Prend effet après le redémarrage du jeu.)	 (Wirkt nach einem Neustart des Spiels.)
+9002000	Mouse Camera	Câmera no Mouse	Caméra à la souris	Mauskamera
+9002010	The mouse turns the camera (the cursor is hidden in game). Off: camera on the arrows.	O mouse gira a câmera (o cursor some no jogo). Desligado: câmera nas setas.	La souris tourne la caméra (le curseur est caché en jeu). Désactivée : caméra sur les flèches.	Die Maus dreht die Kamera (der Zeiger ist im Spiel versteckt). Aus: Kamera auf den Pfeiltasten.
+9002020	Off (arrows)	Desligado (setas)	Désactivée (flèches)	Aus (Pfeiltasten)
+9002030	Mouse Sensitivity	Sensibilidade do Mouse	Sensibilité de la souris	Mausempfindlichkeit
+9002040	Camera speed with the mouse.	Velocidade da câmera com o mouse.	Vitesse de la caméra à la souris.	Kamerageschwindigkeit mit der Maus.
+9002050	Move: Forward	Andar: Frente	Avancer	Vorwärts
+9002060	Move: Back	Andar: Trás	Reculer	Rückwärts
+9002070	Move: Left	Andar: Esquerda	Aller à gauche	Nach links
+9002080	Move: Right	Andar: Direita	Aller à droite	Nach rechts
+9002090	Jump	Pular	Sauter	Springen
+9002100	Action	Ação	Action	Aktion
+9002110	Attack	Ataque	Attaque	Angriff
+9002120	Heavy Attack	Ataque Forte	Attaque puissante	Starker Angriff
+9002130	Recenter Camera	Centralizar Câmera	Recentrer la caméra	Kamera zentrieren
+9002140	Dodge	Esquiva	Esquive	Ausweichen
+9002150	Magic 1	Magia 1	Magie 1	Magie 1
+9002160	Guard	Defesa	Garde	Blocken
+9002170	Magic 2	Magia 2	Magie 2	Magie 2
+9002180	Camera: Up	Câmera: Cima	Caméra : haut	Kamera: oben
+9002190	Camera: Down	Câmera: Baixo	Caméra : bas	Kamera: unten
+9002200	Camera: Left	Câmera: Esquerda	Caméra : gauche	Kamera: links
+9002210	Camera: Right	Câmera: Direita	Caméra : droite	Kamera: rechts
+9002220	Walk	Caminhar	Marcher	Gehen
+9002230	Main Menu	Menu Principal	Menu principal	Hauptmenü
+9002240	Large Map	Mapa Grande	Grande carte	Große Karte
+9002250	Item Shortcut	Atalho de Itens	Raccourci d'objets	Gegenstandskürzel
+9002260	One-Handed Sword	Espada de Uma Mão	Épée à une main	Einhandschwert
+9002270	Two-Handed Sword	Espada de Duas Mãos	Épée à deux mains	Zweihandschwert
+9002280	Spear	Lança	Lance	Speer
+9002290	Press a key...	Aperte uma tecla...	Appuyez sur une touche...	Taste drücken...
+9002300	Press A, then the new key. Esc cancels.	Aperte A e depois a nova tecla. Esc cancela.	Appuyez sur A, puis sur la nouvelle touche. Échap annule.	A drücken, dann die neue Taste. Esc bricht ab.
+9002310	Restore Defaults	Restaurar Padrão	Valeurs par défaut	Standard wiederherstellen
+9002320	Puts every key back to the default.	Volta todas as teclas ao padrão.	Remet toutes les touches par défaut.	Setzt alle Tasten auf den Standard zurück.
+9002330	Left Click	Clique Esquerdo	Clic gauche	Linksklick
+9002340	Right Click	Clique Direito	Clic droit	Rechtsklick
+9002350	Middle Click	Clique do Meio	Clic central	Mittelklick
+9002360	Enter	Enter	Entrée	Eingabe
+9002370	Esc	Esc	Échap	Esc
+9002380	Ctrl	Ctrl	Ctrl	Strg
+9002390	Page Up	Page Up	Page préc.	Bild auf
+9002400	Page Down	Page Down	Page suiv.	Bild ab
+9003000	  (in use)	  (em uso)	  (actuelle)	  (aktiv)
+9003010	Changes the language of the game text, right now.	Muda o idioma dos textos do jogo na hora.	Change la langue du texte du jeu, tout de suite.	Ändert die Sprache des Spieltexts sofort.
+9004000	Achievements	Conquistas	Succès	Erfolge
+9004010	Unlocked	Desbloqueadas	Débloqués	Freigeschaltet
+9004020	Points	Pontos	Points	Punkte
+9004030	Locked	Bloqueada	Verrouillé	Gesperrt
+9004040	Achievement unlocked	Conquista desbloqueada	Succès débloqué	Erfolg freigeschaltet
+9004050	Achievements show once the game has loaded.	As conquistas aparecem quando o jogo terminar de carregar.	Les succès apparaissent une fois le jeu chargé.	Erfolge erscheinen, sobald das Spiel geladen ist.
+9004060	See your achievements.	Veja suas conquistas.	Consulter vos succès.	Erfolge ansehen.
+9500000	The Book of Legend	O Livro da Lenda	The Book of Legend	The Book of Legend
+9500001	Grimoire Weiss joined your party.	Grimoire Weiss entrou no seu grupo.	Grimoire Weiss joined your party.	Grimoire Weiss joined your party.
+9500002	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500010	The Wild Companion	A Companheira Selvagem	The Wild Companion	The Wild Companion
+9500011	Kainé joined your party.	Kainé entrou no seu grupo.	Kainé joined your party.	Kainé joined your party.
+9500012	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500020	The Mellow Companion	O Companheiro Gentil	The Mellow Companion	The Mellow Companion
+9500021	Emil joined your party.	Emil entrou no seu grupo.	Emil joined your party.	Emil joined your party.
+9500022	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500030	Release	Libertação	Release	Release
+9500031	You freed Kainé from her petrification.	Você libertou Kainé da petrificação.	You freed Kainé from her petrification.	You freed Kainé from her petrification.
+9500032	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500040	Key Collector	Colecionador de Chaves	Key Collector	Key Collector
+9500041	You unlocked the key to the Shadowlord's castle.	Você liberou a chave do castelo do Shadowlord.	You unlocked the key to the Shadowlord's castle.	You unlocked the key to the Shadowlord's castle.
+9500042	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500050	A World in Flux	Um Mundo em Mudança	A World in Flux	A World in Flux
+9500051	You defeated the Shadowlord.	Você derrotou o Shadowlord.	You defeated the Shadowlord.	You defeated the Shadowlord.
+9500052	Progress in the story to unlock this secret achievement.	Avance na história para desbloquear esta conquista secreta.	Progress in the story to unlock this secret achievement.	Progress in the story to unlock this secret achievement.
+9500060	Combo Fanatic	Fanático por Combos	Combo Fanatic	Combo Fanatic
+9500061	Pull off a 50-hit combo.	Faça um combo de 50 golpes.	Pull off a 50-hit combo.	Pull off a 50-hit combo.
+9500062	Pull off a 50-hit combo.	Faça um combo de 50 golpes.	Pull off a 50-hit combo.	Pull off a 50-hit combo.
+9500070	Combo Master	Mestre dos Combos	Combo Master	Combo Master
+9500071	Pull off a 100-hit combo.	Faça um combo de 100 golpes.	Pull off a 100-hit combo.	Pull off a 100-hit combo.
+9500072	Pull off a 100-hit combo.	Faça um combo de 100 golpes.	Pull off a 100-hit combo.	Pull off a 100-hit combo.
+9500080	The Magic Man	O Homem da Magia	The Magic Man	The Magic Man
+9500081	Learn every type of magic.	Aprenda todos os tipos de magia.	Learn every type of magic.	Learn every type of magic.
+9500082	Learn every type of magic.	Aprenda todos os tipos de magia.	Learn every type of magic.	Learn every type of magic.
+9500090	Wordsmith	Mestre das Palavras	Wordsmith	Wordsmith
+9500091	Collect 50 percent of all words.	Colete 50 por cento de todas as palavras.	Collect 50 percent of all words.	Collect 50 percent of all words.
+9500092	Collect 50 percent of all words.	Colete 50 por cento de todas as palavras.	Collect 50 percent of all words.	Collect 50 percent of all words.
+9500100	Weapons Collector	Colecionador de Armas	Weapons Collector	Weapons Collector
+9500101	Find every weapon.	Encontre todas as armas.	Find every weapon.	Find every weapon.
+9500102	Find every weapon.	Encontre todas as armas.	Find every weapon.	Find every weapon.
+9500110	Village Handyman	Faz-Tudo da Vila	Village Handyman	Village Handyman
+9500111	Complete 10 quests.	Complete 10 missões.	Complete 10 quests.	Complete 10 quests.
+9500112	Complete 10 quests.	Complete 10 missões.	Complete 10 quests.	Complete 10 quests.
+9500120	Jack of All Trades	Pau para Toda Obra	Jack of All Trades	Jack of All Trades
+9500121	Complete 20 quests.	Complete 20 missões.	Complete 20 quests.	Complete 20 quests.
+9500122	Complete 20 quests.	Complete 20 missões.	Complete 20 quests.	Complete 20 quests.
+9500130	Go-To Guy	O Cara de Confiança	Go-To Guy	Go-To Guy
+9500131	Complete 30 quests.	Complete 30 missões.	Complete 30 quests.	Complete 30 quests.
+9500132	Complete 30 quests.	Complete 30 missões.	Complete 30 quests.	Complete 30 quests.
+9500140	Man of Means	Homem de Posses	Man of Means	Man of Means
+9500141	Accumulate 1,000,000 pieces of gold.	Junte 1.000.000 de moedas de ouro.	Accumulate 1,000,000 pieces of gold.	Accumulate 1,000,000 pieces of gold.
+9500142	Accumulate 1,000,000 pieces of gold.	Junte 1.000.000 de moedas de ouro.	Accumulate 1,000,000 pieces of gold.	Accumulate 1,000,000 pieces of gold.
+9500150	Educated Warrior	Guerreiro Culto	Educated Warrior	Educated Warrior
+9500151	Read the final novel segment.	Leia a parte final do romance.	Read the final novel segment.	Read the final novel segment.
+9500152	Read the final novel segment.	Leia a parte final do romance.	Read the final novel segment.	Read the final novel segment.
+9500160	Call Her Back	Chame-a de Volta	Call Her Back	Call Her Back
+9500161	You viewed the first ending (Ending A).	Você viu o primeiro final (Final A).	You viewed the first ending (Ending A).	You viewed the first ending (Ending A).
+9500162	View the first ending.	Veja o primeiro final.	View the first ending.	View the first ending.
+9500170	Lingering Memories	Memórias que Ficam	Lingering Memories	Lingering Memories
+9500171	You viewed the second ending (Ending B).	Você viu o segundo final (Final B).	You viewed the second ending (Ending B).	You viewed the second ending (Ending B).
+9500172	View the second ending.	Veja o segundo final.	View the second ending.	View the second ending.
+9500180	Thank You	Obrigado	Thank You	Thank You
+9500181	You viewed the third ending (Ending C).	Você viu o terceiro final (Final C).	You viewed the third ending (Ending C).	You viewed the third ending (Ending C).
+9500182	View the third ending.	Veja o terceiro final.	View the third ending.	View the third ending.
+9500190	Something Very Special	Algo Muito Especial	Something Very Special	Something Very Special
+9500191	You viewed the fourth ending (Ending D).	Você viu o quarto final (Final D).	You viewed the fourth ending (Ending D).	You viewed the fourth ending (Ending D).
+9500192	View the fourth ending.	Veja o quarto final.	View the fourth ending.	View the fourth ending.
+9500200	Legendary Gardener	Jardineiro Lendário	Legendary Gardener	Legendary Gardener
+9500201	You successfully cultivated the legendary flower.	Você cultivou a flor lendária.	You successfully cultivated the legendary flower.	You successfully cultivated the legendary flower.
+9500202	Successfully cultivate the legendary flower.	Cultive a flor lendária.	Successfully cultivate the legendary flower.	Successfully cultivate the legendary flower.
+9500210	Fish of Legend	Peixe Lendário	Fish of Legend	Fish of Legend
+9500211	You caught a rhizodont.	Você pescou um rizodonte.	You caught a rhizodont.	You caught a rhizodont.
+9500212	Catch a rhizodont.	Pesque um rizodonte.	Catch a rhizodont.	Catch a rhizodont.
+9500220	A Round by the Pond	Uma Volta pelo Lago	A Round by the Pond	A Round by the Pond
+9500221	You caught one of every type of fish.	Você pescou um peixe de cada tipo.	You caught one of every type of fish.	You caught one of every type of fish.
+9500222	Catch one of every type of fish.	Pesque um peixe de cada tipo.	Catch one of every type of fish.	Catch one of every type of fish.
+9500230	Material Hunter	Caçador de Materiais	Material Hunter	Material Hunter
+9500231	You collected 50 types of raw materials.	Você coletou 50 tipos de materiais.	You collected 50 types of raw materials.	You collected 50 types of raw materials.
+9500232	Collect 50 types of raw materials.	Colete 50 tipos de materiais.	Collect 50 types of raw materials.	Collect 50 types of raw materials.
+9500240	Upgrade Apprentice	Aprendiz de Melhorias	Upgrade Apprentice	Upgrade Apprentice
+9500241	You upgraded 5 weapons to their maximum level.	Você melhorou 5 armas até o nível máximo.	You upgraded 5 weapons to their maximum level.	You upgraded 5 weapons to their maximum level.
+9500242	Upgrade 5 weapons to their maximum level.	Melhore 5 armas até o nível máximo.	Upgrade 5 weapons to their maximum level.	Upgrade 5 weapons to their maximum level.
+9500250	Reform Specialist	Especialista em Reformas	Reform Specialist	Reform Specialist
+9500251	You upgraded 15 weapons to their maximum level.	Você melhorou 15 armas até o nível máximo.	You upgraded 15 weapons to their maximum level.	You upgraded 15 weapons to their maximum level.
+9500252	Upgrade 15 weapons to their maximum level.	Melhore 15 armas até o nível máximo.	Upgrade 15 weapons to their maximum level.	Upgrade 15 weapons to their maximum level.
+9500260	Forging Master	Mestre Ferreiro	Forging Master	Forging Master
+9500261	You upgraded 30 weapons to their maximum level.	Você melhorou 30 armas até o nível máximo.	You upgraded 30 weapons to their maximum level.	You upgraded 30 weapons to their maximum level.
+9500262	Upgrade 30 weapons to their maximum level.	Melhore 30 armas até o nível máximo.	Upgrade 30 weapons to their maximum level.	Upgrade 30 weapons to their maximum level.
+9500270	All Aboared!	Todos a Bordo do Javali!	All Aboared!	All Aboared!
+9500271	You rode a boar for at least five minutes.	Você montou um javali por pelo menos cinco minutos.	You rode a boar for at least five minutes.	You rode a boar for at least five minutes.
+9500272	Ride a boar for at least five minutes.	Monte um javali por pelo menos cinco minutos.	Ride a boar for at least five minutes.	Ride a boar for at least five minutes.
+9500280	The Sheep Whisperer	O Encantador de Ovelhas	The Sheep Whisperer	The Sheep Whisperer
+9500281	You killed 100 sheep.	Você matou 100 ovelhas.	You killed 100 sheep.	You killed 100 sheep.
+9500282	Kill 100 sheep.	Mate 100 ovelhas.	Kill 100 sheep.	Kill 100 sheep.
+9500290	Lightspeed Fighter	Lutador na Velocidade da Luz	Lightspeed Fighter	Lightspeed Fighter
+9500291	You completed the game within fifteen hours.	Você terminou o jogo em menos de quinze horas.	You completed the game within fifteen hours.	You completed the game within fifteen hours.
+9500292	Complete the game within fifteen hours.	Termine o jogo em menos de quinze horas.	Complete the game within fifteen hours.	Complete the game within fifteen hours.
+9500300	King of the Lost Shrine	Rei do Santuário Perdido	King of the Lost Shrine	King of the Lost Shrine
+9500301	Defeat Gretel within two and a half minutes.	Derrote Gretel em menos de dois minutos e meio.	Defeat Gretel within two and a half minutes.	Defeat Gretel within two and a half minutes.
+9500302	Defeat a certain boss within two and a half minutes.	Derrote um certo chefe em menos de dois minutos e meio.	Defeat a certain boss within two and a half minutes.	Defeat a certain boss within two and a half minutes.
+9500310	A True Friend	Um Amigo de Verdade	A True Friend	A True Friend
+9500311	Defeat a berserking Shade within one minute.	Derrote uma Sombra enfurecida em menos de um minuto.	Defeat a berserking Shade within one minute.	Defeat a berserking Shade within one minute.
+9500312	Defeat a certain boss within one minute.	Derrote um certo chefe em menos de um minuto.	Defeat a certain boss within one minute.	Defeat a certain boss within one minute.
+9500320	Boss of the Junk Heap	Chefe do Lixão	Boss of the Junk Heap	Boss of the Junk Heap
+9500321	Defeat P-33 within four and a half minutes.	Derrote P-33 em menos de quatro minutos e meio.	Defeat P-33 within four and a half minutes.	Defeat P-33 within four and a half minutes.
+9500322	Defeat a certain boss within four and a half minutes.	Derrote um certo chefe em menos de quatro minutos e meio.	Defeat a certain boss within four and a half minutes.	Defeat a certain boss within four and a half minutes.
+9500330	Scourge of The Aerie	Flagelo do Ninho	Scourge of The Aerie	Scourge of The Aerie
+9500331	Defeat Wendy within eight and a half minutes.	Derrote Wendy em menos de oito minutos e meio.	Defeat Wendy within eight and a half minutes.	Defeat Wendy within eight and a half minutes.
+9500332	Defeat a certain boss within eight and a half minutes.	Derrote um certo chefe em menos de oito minutos e meio.	Defeat a certain boss within eight and a half minutes.	Defeat a certain boss within eight and a half minutes.
+9500340	Protector of Facade	Protetor de Facade	Protector of Facade	Protector of Facade
+9500341	Defeat Roc within three and a half minutes.	Derrote Roc em menos de três minutos e meio.	Defeat Roc within three and a half minutes.	Defeat Roc within three and a half minutes.
+9500342	Defeat a certain boss within three and a half minutes.	Derrote um certo chefe em menos de três minutos e meio.	Defeat a certain boss within three and a half minutes.	Defeat a certain boss within three and a half minutes.
+9500350	Permission Granted	Permissão Concedida	Permission Granted	Permission Granted
+9500351	Defeat the betrayers within two and a half minutes.	Derrote os traidores em menos de dois minutos e meio.	Defeat the betrayers within two and a half minutes.	Defeat the betrayers within two and a half minutes.
+9500352	Defeat a certain boss within two and a half minutes.	Derrote um certo chefe em menos de dois minutos e meio.	Defeat a certain boss within two and a half minutes.	Defeat a certain boss within two and a half minutes.
+9500360	A Dirge for the Hero	Um Lamento pelo Herói	A Dirge for the Hero	A Dirge for the Hero
+9500361	Defeat Goose within two minutes.	Derrote Goose em menos de dois minutos.	Defeat Goose within two minutes.	Defeat Goose within two minutes.
+9500362	Defeat a certain boss within two minutes.	Derrote um certo chefe em menos de dois minutos.	Defeat a certain boss within two minutes.	Defeat a certain boss within two minutes.
+9500370	Soul Crusher	Esmagador de Almas	Soul Crusher	Soul Crusher
+9500371	Defeat the betrayers again within three and a half minutes.	Derrote os traidores de novo em menos de três minutos e meio.	Defeat the betrayers again within three and a half minutes.	Defeat the betrayers again within three and a half minutes.
+9500372	Defeat a certain boss within three and a half minutes.	Derrote um certo chefe em menos de três minutos e meio.	Defeat a certain boss within three and a half minutes.	Defeat a certain boss within three and a half minutes.
+9500380	Book Burner	Queimador de Livros	Book Burner	Book Burner
+9500381	Destroy the world-saving tome within one and a half minutes.	Destrua o livro que salvaria o mundo em menos de um minuto e meio.	Destroy the world-saving tome within one and a half minutes.	Destroy the world-saving tome within one and a half minutes.
+9500382	Defeat a certain boss within one and a half minutes.	Derrote um certo chefe em menos de um minuto e meio.	Defeat a certain boss within one and a half minutes.	Defeat a certain boss within one and a half minutes.
+9500390	The Once and Final King	O Rei de Outrora e do Fim	The Once and Final King	The Once and Final King
+9500391	Defeat the Shade inside you within three and a half minutes.	Derrote a Sombra dentro de você em menos de três minutos e meio.	Defeat the Shade inside you within three and a half minutes.	Defeat the Shade inside you within three and a half minutes.
+9500392	Defeat a certain boss within three and a half minutes.	Derrote um certo chefe em menos de três minutos e meio.	Defeat a certain boss within three and a half minutes.	Defeat a certain boss within three and a half minutes.
+9500400	The Strongest Bond	O Laço Mais Forte	The Strongest Bond	The Strongest Bond
+9500401	Defeat someone you care for within three and a half minutes.	Derrote alguém que você ama em menos de três minutos e meio.	Defeat someone you care for within three and a half minutes.	Defeat someone you care for within three and a half minutes.
+9500402	Defeat a certain boss within three and a half minutes.	Derrote um certo chefe em menos de três minutos e meio.	Defeat a certain boss within three and a half minutes.	Defeat a certain boss within three and a half minutes.
+9005000	On-Screen Buttons	Botões na Tela	Boutons à l'écran	Bildschirmtasten
+9005010	Automatic	Automático	Automatique	Automatisch
+9005020	Always	Sempre	Toujours	Immer
+9005030	Off	Desligado	Désactivé	Aus
+9005040	Automatic: shown while no controller is connected.	Automático: aparecem enquanto nenhum controle estiver conectado.	Automatique : affichés tant qu'aucune manette n'est connectée.	Automatisch: sichtbar, solange kein Controller verbunden ist.
+9005050	Button Size	Tamanho dos Botões	Taille des boutons	Tastengröße
+9005060	Size of all the on-screen buttons.	Tamanho de todos os botões na tela.	Taille de tous les boutons à l'écran.	Größe aller Bildschirmtasten.
+9005070	Button Opacity	Opacidade dos Botões	Opacité des boutons	Tastendeckkraft
+9005080	How visible the on-screen buttons are.	O quanto os botões na tela aparecem.	Visibilité des boutons à l'écran.	Wie sichtbar die Bildschirmtasten sind.
+9005090	Touch Camera Speed	Velocidade da Câmera no Toque	Vitesse de la caméra tactile	Touch-Kamerageschwindigkeit
+9005100	How fast the camera turns when you drag on the right side of the screen.	Velocidade da câmera ao arrastar o dedo no lado direito da tela.	Vitesse de la caméra quand vous glissez sur la droite de l'écran.	Wie schnell sich die Kamera dreht, wenn Sie rechts auf dem Bildschirm wischen.
+9005110	Edit Button Layout	Editar Posição dos Botões	Disposer les boutons	Tasten anordnen
+9005120	Drag the buttons to new places and change their size.	Arraste os botões para outros lugares e mude o tamanho deles.	Faites glisser les boutons et changez leur taille.	Tasten verschieben und ihre Größe ändern.
+9005130	Puts the on-screen buttons back as they were.	Volta os botões na tela ao padrão.	Remet les boutons à l'écran comme au départ.	Setzt die Bildschirmtasten zurück.
+9005140	Default	Padrão	Par défaut	Standard
+9005150	Cancel	Cancelar	Annuler	Abbrechen
+9005160	Save	Salvar	Enregistrer	Speichern
+9005170	Drag the buttons. Tap one and use - / + to change its size.	Arraste os botões. Toque em um e use - / + para mudar o tamanho.	Faites glisser les boutons. Touchez-en un et utilisez - / + pour sa taille.	Tasten ziehen. Eine antippen und mit - / + die Größe ändern.
+9004070	pts	pts	pts	Pkt.
+9004080	unlocked on	desbloqueada em	débloqué le	freigeschaltet am
+9004090	Next Page	Próxima Página	Page suivante	Nächste Seite
+9004100	Previous Page	Página Anterior	Page précédente	Vorherige Seite
+9004110	Shows the other achievements.	Mostra as outras conquistas.	Affiche les autres succès.	Zeigt die anderen Erfolge.
+9004120	Achievements unlocked on this PC, in every save.	Conquistas desbloqueadas neste PC, em todos os saves.	Succès débloqués sur ce PC, dans toutes les sauvegardes.	Auf diesem PC freigeschaltete Erfolge, in jedem Spielstand.
+9004130	Achievements	Conquistas	Succès	Erfolge
+9004200	Mods	Mods	Mods	Mods
+9004210	Settings of the installed mods.	Ajustes dos mods instalados.	Réglages des mods installés.	Einstellungen der installierten Mods.
+9004220	Changes this mod's setting.	Muda este ajuste do mod.	Modifie ce réglage du mod.	Ändert diese Einstellung des Mods.
+9004230	Runs this mod's action.	Executa esta ação do mod.	Exécute cette action du mod.	Führt diese Aktion des Mods aus.
+9004240	Opens this mod's settings.	Abre os ajustes deste mod.	Ouvre les réglages de ce mod.	Öffnet die Einstellungen dieses Mods.
+9004250	(off)	(desativado)	(désactivé)	(aus)
+9004260	Mod Active	Mod ativo	Mod actif	Mod aktiv
+9004270	Turns this mod on or off. Off, it does nothing.	Liga ou desliga este mod. Desligado, ele não faz nada.	Active ou désactive ce mod. Désactivé, il ne fait rien.	Schaltet diesen Mod ein oder aus. Aus tut er nichts.
+9004280	Shortcut	Atalho	Raccourci	Kürzel
+9004290	Key that opens this mod's window. Press A, then the new key. Esc cancels.	Tecla que abre a janela deste mod. Aperte A e depois a nova tecla. Esc cancela.	Touche qui ouvre la fenêtre de ce mod. Appuyez sur A, puis sur la nouvelle touche. Échap annule.	Taste, die das Fenster dieses Mods öffnet. A drücken, dann die neue Taste. Esc bricht ab.
+9004300	Back to Mods	Voltar aos mods	Retour aux mods	Zurück zu den Mods
+9004310	Back to the list of installed mods.	Volta para a lista de mods instalados.	Retour à la liste des mods installés.	Zurück zur Liste der installierten Mods.
+9000130	Touch, keyboard and mouse, and controller.	Toque, teclado e mouse, e controle.	Tactile, clavier et souris, et manette.	Touch, Tastatur und Maus, und Controller.
+9006000	Touch Controls	Controles de Toque	Commandes tactiles	Touch-Steuerung
+9006010	The on-screen buttons: when they show, their size and places.	Os botões na tela: quando aparecem, tamanho e posições.	Les boutons à l'écran : quand ils s'affichent, leur taille et leur place.	Die Bildschirmtasten: wann sie erscheinen, Größe und Position.
+9006020	Mouse and Keyboard	Mouse e Teclado	Souris et clavier	Maus und Tastatur
+9006030	The keys of each action and the mouse camera.	As teclas de cada ação e a câmera no mouse.	Les touches de chaque action et la caméra à la souris.	Die Tasten jeder Aktion und die Mauskamera.
+9006040	Controller	Controle	Manette	Controller
+9006050	Which controller button does each action.	Qual botão do controle faz cada ação.	Quel bouton de la manette fait chaque action.	Welche Controllertaste welche Aktion ausführt.
+9006060	Back to Control Options	Voltar aos Controles	Retour aux commandes	Zurück zur Steuerung
+9006070	Back to the list of controls.	Volta para a lista de controles.	Retour à la liste des commandes.	Zurück zur Liste der Steuerungen.
+9006080	Press a button...	Aperte um botão...	Appuyez sur un bouton...	Taste drücken...
+9006090	Press A, then the new button. Two actions trade buttons.	Aperte A e depois o novo botão. Duas ações trocam de botão.	Appuyez sur A, puis sur le nouveau bouton. Deux actions échangent leurs boutons.	A drücken, dann die neue Taste. Zwei Aktionen tauschen Tasten.
+9006100	Every button back to its own action.	Cada botão volta para a sua própria ação.	Chaque bouton retrouve sa propre action.	Jede Taste wieder mit ihrer eigenen Aktion.
+9006110	Left Stick Press	Apertar o analógico esquerdo	Clic du stick gauche	Linken Stick drücken
+9006200	Below 100% draws fewer pixels and scales up (use AMD FSR): much lighter. Above: sharper but heavier.	Abaixo de 100 por cento desenha menos pixels e amplia (use o AMD FSR): bem mais leve. Acima: mais nítido e mais pesado.	Sous 100 pour cent, moins de pixels sont dessinés puis agrandis (utilisez AMD FSR) : bien plus léger. Au-dessus : plus net mais plus lourd.	Unter 100 Prozent werden weniger Pixel gezeichnet und hochskaliert (AMD FSR nutzen): viel leichter. Darüber: schärfer, aber schwerer.
+9006210	How the image is scaled to the screen. AMD FSR upscales with sharp edges, but only gains speed with Resolution Scale below 100%: 75% = Quality, 67% = Balanced, 50% = Performance.	Como a imagem é ampliada para a tela. O AMD FSR amplia com bordas nítidas, mas só ganha velocidade com a Escala de resolução abaixo de 100 por cento: 75 = Qualidade, 67 = Equilibrado, 50 = Desempenho.	Comment l'image est mise à l'échelle. AMD FSR agrandit avec des bords nets, mais n'accélère qu'avec l'échelle de résolution sous 100 pour cent : 75 = Qualité, 67 = Équilibré, 50 = Performance.	Wie das Bild auf den Bildschirm skaliert wird. AMD FSR skaliert mit scharfen Kanten, bringt aber nur mit einer Auflösungsskala unter 100 Prozent Tempo: 75 = Qualität, 67 = Ausgewogen, 50 = Leistung.
+9006220	Button Icons	Ícones dos botões	Icônes des boutons	Tastensymbole
+9006230	The controller's icons in hints and menus. With the keyboard and mouse the keys show.	Os ícones do controle nas dicas e menus. Com teclado e mouse aparecem as teclas.	Les icônes de la manette dans les aides et les menus. Avec le clavier et la souris, les touches s'affichent.	Die Controllersymbole in Hinweisen und Menüs. Mit Tastatur und Maus erscheinen die Tasten.
+9006240	Screen Fit	Ajuste da tela	Ajustement de l'écran	Bildanpassung
+9006250	Fill (crops)	Preencher (corta)	Remplir (rogne)	Füllen (beschneidet)
+9006260	Real Widescreen	Tela larga real	Vrai écran large	Echtes Breitbild
+9006270	The game is 16:9. On wider screens: Fill zooms in, cropping a little off the top and bottom; Black Bars shows the whole picture; Stretch fills the screen, widening the picture; Widescreen fills the screen with the HUD in shape in the middle; Real Widescreen opens the camera to the sides (more view, nothing stretched) and takes the HUD to the edges.	O jogo é 16:9. Em telas mais largas: Preencher aproxima, cortando um pouco em cima e embaixo; Barras pretas mostra a imagem inteira; Esticar enche a tela alargando a imagem; Tela larga enche a tela com a interface certa no meio; Tela larga real abre a câmera para os lados (mais visão, nada esticado) e leva a interface para as bordas.	Le jeu est en 16:9. Sur les écrans plus larges : Remplir zoome en rognant un peu en haut et en bas ; Bandes noires montre toute l'image ; Étirer remplit l'écran en élargissant l'image ; Écran large remplit l'écran avec l'interface intacte au milieu ; Vrai écran large ouvre la caméra sur les côtés (plus de vue, rien d'étiré) et place l'interface sur les bords.	Das Spiel ist 16:9. Auf breiteren Bildschirmen: Füllen zoomt hinein und schneidet oben und unten etwas ab; Schwarze Balken zeigt das ganze Bild; Strecken füllt den Bildschirm und verbreitert das Bild; Breitbild füllt den Bildschirm mit unverzerrter Oberfläche in der Mitte; Echtes Breitbild öffnet die Kamera zu den Seiten (mehr Sicht, nichts gestreckt) und bringt die Oberfläche an die Ränder.
+9006280	Near Blur	Desfoque de perto	Flou de près	Nahunschärfe
+9006290	On (game's)	Ligado (do jogo)	Activé (du jeu)	An (vom Spiel)
+9006300	The blur on characters when the camera comes close. Off: they stay sharp (better at 4K). The far blur stays.	O desfoque nos personagens quando a câmera chega perto. Desligado: eles ficam nítidos (melhor em 4K). O desfoque de longe continua.	Le flou sur les personnages quand la caméra s'approche. Désactivé : ils restent nets (mieux en 4K). Le flou lointain reste.	Die Unschärfe auf Figuren, wenn die Kamera nah kommt. Aus: Sie bleiben scharf (besser in 4K). Die Fernunschärfe bleibt.
+9001510	Lightens or darkens the picture's mid tones (black and white stay).	Clareia ou escurece os tons médios da imagem (o preto e o branco ficam).	Éclaircit ou assombrit les tons moyens de l'image (le noir et le blanc restent).	Hellt die Mitteltöne des Bildes auf oder dunkelt sie ab (Schwarz und Weiß bleiben).
+9006400	Weapon Switch	Alternar armas	Changement d'arme	Waffenwechsel
+9006410	Tap	Tocar	Appuyer	Tippen
+9006420	Hold	Segurar	Maintenir	Halten
+9006430	Tap: a tap on a weapon button equips that kind's weapon at once, holding opens the menu. Hold: the other way round. Once Nier has every kind of weapon.	Tocar: um toque no botão de uma arma equipa na hora a arma daquele tipo; segurar abre o menu. Segurar: o contrário. Vale quando o Nier tiver todos os tipos de arma.	Appuyer : un appui sur un bouton d'arme équipe aussitôt l'arme de ce type, le maintenir ouvre le menu. Maintenir : l'inverse. Dès que Nier a tous les types d'armes.	Tippen: Ein Tippen auf eine Waffentaste rüstet sofort die Waffe dieser Art aus, Halten öffnet das Menü. Halten: umgekehrt. Sobald Nier jede Waffenart hat.
+9006440	Quick Weapon Switch	Troca rápida de armas	Changement rapide d'arme	Schneller Waffenwechsel
+9006450	You now have every kind of weapon. Tap a weapon button (D-pad left, right or down; keys 1, 2 and 3; or the on-screen weapon button) to equip at once the weapon chosen for that kind. Hold it to open the weapon menu and choose another. To swap tap and hold: Options > Control Options > Weapon Switch.	Agora você tem todos os tipos de arma. Toque no botão de uma arma (direcional esquerda, direita ou baixo; teclas 1, 2 e 3; ou o botão de armas na tela) para equipar na hora a arma escolhida daquele tipo. Segure para abrir o menu de armas e escolher outra. Para inverter tocar e segurar: Opções > Controles > Alternar armas.	Vous avez maintenant tous les types d'armes. Appuyez sur un bouton d'arme (croix gauche, droite ou bas ; touches 1, 2 et 3 ; ou le bouton d'armes à l'écran) pour équiper aussitôt l'arme choisie de ce type. Maintenez-le pour ouvrir le menu des armes et en choisir une autre. Pour inverser : Options > Commandes > Changement d'arme.	Du hast jetzt jede Waffenart. Tippe auf eine Waffentaste (Steuerkreuz links, rechts oder unten; Tasten 1, 2 und 3; oder die Waffentaste auf dem Bildschirm), um sofort die gewählte Waffe dieser Art auszurüsten. Halte sie, um das Waffenmenü zu öffnen und eine andere zu wählen. Zum Tauschen: Optionen > Steuerung > Waffenwechsel.
+9006460	You now have every kind of weapon. Hold a weapon button (D-pad left, right or down; keys 1, 2 and 3; or the on-screen weapon button) to equip at once the weapon chosen for that kind. A tap opens the weapon menu to choose another. To swap tap and hold: Options > Control Options > Weapon Switch.	Agora você tem todos os tipos de arma. Segure o botão de uma arma (direcional esquerda, direita ou baixo; teclas 1, 2 e 3; ou o botão de armas na tela) para equipar na hora a arma escolhida daquele tipo. Um toque abre o menu de armas para escolher outra. Para inverter tocar e segurar: Opções > Controles > Alternar armas.	Vous avez maintenant tous les types d'armes. Maintenez un bouton d'arme (croix gauche, droite ou bas ; touches 1, 2 et 3 ; ou le bouton d'armes à l'écran) pour équiper aussitôt l'arme choisie de ce type. Un appui ouvre le menu des armes pour en choisir une autre. Pour inverser : Options > Commandes > Changement d'arme.	Du hast jetzt jede Waffenart. Halte eine Waffentaste (Steuerkreuz links, rechts oder unten; Tasten 1, 2 und 3; oder die Waffentaste auf dem Bildschirm), um sofort die gewählte Waffe dieser Art auszurüsten. Ein Tippen öffnet das Waffenmenü, um eine andere zu wählen. Zum Tauschen: Optionen > Steuerung > Waffenwechsel.
+9006470	Press A or click to continue.	Aperte A ou clique para continuar.	Appuyez sur A ou cliquez pour continuer.	A drücken oder klicken, um fortzufahren.

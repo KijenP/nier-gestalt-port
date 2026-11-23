@@ -1,0 +1,23 @@
+diff --git a/src/joystick/android/SDL_sysjoystick.c b/src/joystick/android/SDL_sysjoystick.c
+index feba3cd..0e26e53 100644
+--- a/src/joystick/android/SDL_sysjoystick.c
++++ b/src/joystick/android/SDL_sysjoystick.c
+@@ -312,8 +312,18 @@ void Android_AddJoystick(int device_id, const char *name, const char *desc, int
+     SDL_GUID guid;
+     int i;
+ 
++    char pad_name[128];
++
+     SDL_LockJoysticks();
+ 
++    // nier: Android merges a pad's keyboard node into the pad and can name the
++    // whole device "... Keyboard" (e.g. "Manba One BFM Keyboard"), which the
++    // gamepad blacklist drops. A device with sticks is a pad: drop the suffix.
++    if (name && naxes >= 2 && SDL_endswith(name, " Keyboard")) {
++        SDL_strlcpy(pad_name, name, SDL_min(sizeof(pad_name), SDL_strlen(name) - 9 + 1));
++        name = pad_name;
++    }
++
+     if (!SDL_GetHintBoolean(SDL_HINT_TV_REMOTE_AS_JOYSTICK, true)) {
+         // Ignore devices that aren't actually controllers (e.g. remotes), they'll be handled as keyboard input
+         if (naxes < 2 && nhats < 1) {

@@ -1,0 +1,538 @@
+1000		0	2	0	EID_1500_a0020g_0060_Y					-1	0	0	0	127	Cui...dado...
+		0	1	0	EID_1500_a0020g_0070_Y					-1	0	0	0	127	Cui...dado...com as pala...vras...
+		0	1	0	EID_1500_a0020g_0080_Y					-1	0	0	0	2	As palavras? O que quer dizer?
+		0	1	0	EID_1500_a0020g_0090_Y					-1	0	0	0	127	Contagiosas...palavras...
+		0	1	0	EID_1500_a0020g_0100_Y					-1	0	0	0	127	Os que...so...nham...
+		0	1	0	EID_1500_a0020g_0110_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+<CB=CHANGE_WINDOW_SIZE,1,1362,1017>	-1	0	0	0	2	Os que sonham?
+1001		0	1	0	EID_all_greeting02_NIER030_Y					-1	0	-1	0	2	Ei.
+		0	1	0	EID_1500_a0020g_0020_Y				<CB=EID_1500_a0020g_0020_End>	-1	0	0	0	74	......
+1002		0	1	0	EID_1500_a0020g_0020_Y				<CB=EID_1500_a0020g_0020_02_End>	-1	0	0	0	74	......
+1003		0	1	0	EID_all_greeting01_NIER030_Y					-1	0	-1	0	2	Hã... olá?
+		0	1	0	EID_1500_a0020g_0040_Y					-1	0	0	0	8	......
+		0	1	0	EID_1500_a0020g_0050_Y				<CB=EID_1500_a0020g_0030_End>	-1	0	0	0	26	...Bem brilhante e falante, Popola.
+1004		0	1	0	EID_1500_a0020g_0040_Y				<CB=EID_1500_a0020g_0030_02_End>	-1	0	0	0	8	......
+1005		0	1	0	EID_1500_a0107_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1362>		0	-1	1362	0	127	Ah, muito obrigado!
+		0	1	0	EID_1500_a0107_0020_Y					0	-1	1362	0	127	Agora finalmente posso voltar a uma vida normal.
+		0	1	0	EID_1500_a0107_0030_Y					-1	0	0	0	26	Esta é uma das doenças mais bizarras que já encontrei.
+		0	1	0	EID_1500_a0107_0040_Y				<CB=EID_1500_a0020g_0010_End>	0	-1	1362	0	127	Eu sei. Por isso tenho que ajudar os outros aldeões, custe o que custar.
+1006		0	2	0	EID_1599_a0108_0010_Y					-1	0	0	0	74	......
+		0	1	0	EID_1599_a0108_0020_Y					-1	0	-1	0	2	Esta deve ser outra pessoa infectada pelo Sonho Mortal.
+		0	1	0	EID_1599_a0108_0030_Y				<CB=C_FOREST_FIELD_DREAM_CB_Start,0>	-1	0	0	0	26	Parece que sim, de fato.
+1007		0	1	0	EID_1599_a0108_0040_Y			<CB=EID_1500_a0108_0010_SN>		-1	0	-1	0	2	Deuses, por favor, não me digam que temos que voltar lá. Não sou bom nesse tipo de jogo mental. Prefiro bater em algo na cara e acabar com isso.
+		0	1	0	EID_1599_a0108_0050_Y					-1	0	0	0	26	Talvez você devesse gastar menos tempo reclamando e mais tempo cumprindo a missão!
+		0	1	0	EID_1599_a0108_0060_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+<CB=BG_AND_ENV_FADE_OUT>
+<CB=CHANGE_WINDOW_SIZE,9,1363,1075>	-1	0	-1	0	2	Tá, tá...
+1008		0	1	0	EID_1500_a0112_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0	2	......
+		0	1	0	EID_1500_a0112_0020_Y					-1	0	0	0	26	......
+		0	1	0	EID_1500_a0112_0030_Y					-1	0	0	0	2	...Tem algo a dizer sobre isso?
+		0	1	0	EID_1500_a0112_0040_Y					-1	0	0	0	26	Esperemos que não haja labirinto da próxima vez!
+		0	1	0	EID_1500_a0112_0050_Y				<CB=EID_1500_a0108_0010_End>	-1	0	0	0	2	Concordo.
+1009		0	2	0	EID_1500_a0114_0010_Y				<CB=C_FOREST_FIELD_DREAM_CB_Start,1>	-1	0	0	0	26	E mais uma vítima! ...Este trabalho certamente é penoso.
+1010		0	1	0	EID_1500_a0114_0020_Y					-1	0	0	0	2	Estou surpreso, Weiss. Você é um livro. Toda essa coisa de palavras devia ser a sua praia.
+		0	1	0	EID_1500_a0114_0030_Y				<CB=LIB_SET_CLOSE_2D_GAUGE>
+<CB=BG_AND_ENV_FADE_OUT>
+<CB=CHANGE_WINDOW_SIZE,9,1364,1109>	-1	0	0	0	26	Hmm, sim. Bem. ...Chega de conversa! Vamos!
+1011		0	1	0	EID_1500_a0122_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	......
+		0	1	0	EID_1500_a0122_0020_Y					-1	0	0	0	2	Tá, isso foi terrível.
+		0	1	0	EID_1500_a0122_0030_Y					-1	0	0	0	26	Tenho certeza de que já vi aquele lugar antes.
+		0	1	0	EID_1500_a0122_0040_Y				<CB=EID_1500_a0118_0010_End>	-1	0	0	0	2	Pare! Já recebo coisas agourentas o bastante de todo mundo na minha vida. Não comece você também.
+1012		0	1	0	EID_1500_a1025_0010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0	26	......
+		0	1	0	EID_1500_a1025_0020_Y					-1	0	0	0	2	......
+		0	1	0	EID_1500_a1025_0030_Y					-1	0	0	0	26	............
+		0	1	0	EID_1500_a1025_0040_Y					-1	0	0	0	2	............
+		0	1	0	EID_1500_a1025_0050_Y					-1	0	0	0	26	Bem, isso foi um erro.
+		0	1	0	EID_1500_a1025_0060_Y					-1	0	0	0	2	É.
+		0	1	0	EID_1500_a1025_0070_Y					-1	0	0	0	26	É melhor agirmos com mais cuidado da próxima vez.
+		0	1	0	EID_1500_a1025_0080_Y				<CB=EID_1500_a0118_0010_Bad>	-1	0	0	0	2	...Este é o pior trabalho de todos.
+1013		0	1	0	EID_1500_a0200_0010_Y					-1	0	0	0	2	Pronto. Agora todos os aldeões podem acordar, certo?
+		0	1	0	EID_1500_a0200_0020_Y					-1	0	0	0	26	Sim, se a suposição do prefeito estava correta.
+		0	1	0	EID_1500_a0200_0030_Y					-1	0	0	0	26	Acho que já tive jogos de palavras suficientes para uma vida inteira, muito obrigado!
+		0	1	0	EID_1500_a0200_0035_Y					-1	0	0	0	2	É, eu entendo. ...Bem, vamos ver o prefeito.
+1014		0	2	0	EID_all_greeting01_VILLNOG_Y					0	-1	1362	0	127	Ah, obrigado! Muito obrigado!
+		0	1	0	EID_4500_a0400_0065				<CB=EID_1500_a0200_020_Start>	0	-1	1362	0	127	Tome, tenho algo para você.
+1015		0	1	0	EID_4500_a0400_0070					0	1362	-1	0	2	...Caramba. Posso mesmo ficar com isto?
+		0	1	0	EID_4500_a0400_0080					0	-1	1362	0	127	Claro!
+		0	1	0	EID_4500_a0400_0090					0	-1	1362	0	127	Aparentemente é uma arma de certa fama, mas temos pouca utilidade para ela.
+		0	1	0	EID_4500_a0400_0100					0	1362	-1	0	2	Bem, agradecemos.
+		0	1	0	EID_4500_a0400_0110				<CB=EID_1500_a0200_020_End>	0	-1	1362	0	127	Obrigado de novo! Por tudo!
+1016		0	1	0	EID_all_worry02_BOOKW010_Y					-1	0	0	0	26	Simplesmente não suporto mais uma dessas conversas infernais. Guardemos para outra hora.
+1017	1018	1	1	0	NV_ID_1344			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Weiss: Um momento... Há uma sensação estranha e nova na minha mente.
+		1	1	0	NV_ID_1346					-1	0	0	0		A voz do Weiss subiu de modo inquisitivo.
+		1	1	0	NV_ID_1348					-1	0	0	0		Weiss: NÃO é inquisitivo!
+1018	1019	1	1	0	NV_ID_1350					-1	0	0	0		<NIER>: O que está acontecendo aqui!?
+		1	1	0	NV_ID_1352					-1	0	0	0		O corpo do aldeão estremeceu enquanto ele abria os olhos devagar.
+		1	1	0	NV_ID_1354					-1	0	0	0		Weiss: Talvez devêssemos começar perguntando a este homem.
+1019	1020	1	1	0	NV_ID_1355					-1	0	0	0		Aldeão: ...Q-quem são vocês?
+		1	1	0	NV_ID_1357					-1	0	0	0		<NIER>: Sou <NIER>. Este é o Weiss. Ouvimos que algo aconteceu a esta vila, então viemos ver se podíamos ajudar.
+		1	1	0	NV_ID_1359					-1	0	0	0		O aldeão encarou <NIER> e Weiss.
+1020	1021	1	1	0	NV_ID_1361					-1	0	0	0		Aldeão: Se você consegue falar comigo...
+		1	1	0	NV_ID_1362					-1	0	0	0		Aldeão: Devo ter pegado vocês no meu sonho.
+		1	1	0	NV_ID_1363					-1	0	0	0		<NIER>: Como é que é?
+1021		1	1	0	NV_ID_1366					-1	0	0	0		O aldeão explicou.
+		1	1	0	NV_ID_1367				<CB=CHANGE_WINDOW_SIZE,2,1362,1022>	-1	0	0	0		Nas últimas semanas, uma doença misteriosa chamada Sonho Mortal se espalhara pela Floresta do Mito. Quem a contraía era amaldiçoado a adormecer e viver para sempre dentro do mundo dos próprios sonhos. <STOP>O prefeito da vila determinara que o Sonho Mortal se espalhava de pessoa a pessoa por palavras faladas, mas antes que pudesse saber mais, a doença o levou também.
+1022	1023	1	1	0	NV_ID_0002			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		Weiss encarou o prefeito, a boca tremendo levemente.
+		1	1	0	NV_ID_0003					-1	0	0	0		"Ora, veja bem", disse ele, "está dizendo que fomos absorvidos pelo seu sonho?"
+		1	1	0	NV_ID_0004					-1	0	0	0		"Hã, bem... sim", disse o prefeito. "Acho que sim."
+		1	1	0	NV_ID_0005					-1	0	0	0		"Ah, droga", disse <NIER>. "Então isso quer dizer que pegamos o Sonho Mortal?"
+		1	1	0	NV_ID_0006					-1	0	0	0		Antes que o prefeito pudesse confirmar a suspeita de <NIER>, Weiss explodiu de raiva.
+1023	1024	1	1	0	NV_ID_0007					-1	0	0	0		"Ridículo! Absurdo! Completamente inconcebível em todos os níveis imagináveis! Nem me lembro de ter adormecido!"
+		1	1	0	NV_ID_0008					-1	0	0	0		O prefeito tentou aceitar as reclamações de Weiss com calma.
+		1	1	0	NV_ID_0009					-1	0	0	0		"É assim que o Sonho Mortal funciona", disse ele, deixando de lado os comentários do livro.
+		1	1	0	NV_ID_0010					-1	0	0	0		"Meus comentários não serão deixados de lado, tolo! E convém lembrar que este mundo me permite ver toda a sua narração!"<PAGE>
+		1	1	0	NV_ID_0011				<CB=BG_AND_ENV_FADE_OUT>	-1	0	0	0		O prefeito torceu a boca numa careta envergonhada e mudou rapidamente de assunto, perguntando quem <NIER> vira — e o que haviam conversado — desde que chegara à vila.
+1024	1025	1	1	0	NV_ID_0012					-1	0	0	0		"Algo ali deve ter feito vocês entrarem no meu sonho", disse o prefeito. "Uma certa conversa, uma palavra específica... alguma coisa!"
+		1	1	0	NV_ID_0013					-1	0	0	0		<NIER> e Weiss quebraram a cabeça, mas não acharam soluções fáceis. Havia palavras demais a considerar; conversa fiada demais; conversas sem sentido demais.<PAGE>
+		1	1	0	NV_ID_0014					-1	0	0	0		"O Grimoire Weiss não participa de conversas sem sentido!"
+		1	1	0	NV_ID_0015					-1	0	0	0		A mera sugestão de que Weiss escolhia as palavras sem cuidado pareceu ferir seu orgulho.
+1025		1	1	0	NV_ID_0016					-1	0	0	0		"Não 'parece' ferir o meu orgulho, seu narrador inchado e tagarela! Ele o demoliu por completo!"
+		1	1	0	NV_ID_0017					-1	0	0	0		Irritado, Weiss olhou para o céu, como se buscasse respostas nos céus.
+		1	1	0	NV_ID_0018					-1	0	0	0		"Eu não estava fazendo nada disso! Só me deixe em paz de uma vez!"
+		1	1	0	NV_ID_0019				<CB=CHANGE_WINDOW_SIZE,9,1362,1026>	-1	0	0	0		A raiva criada por suas palavras ásperas passou para <NIER> como um contágio.
+1026	1027	1	1	0	NV_ID_0020			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		"Espere", disse <NIER> de repente.  "Alguém acabou de dizer contágio?"
+		1	1	0	NV_ID_0021					-1	0	0	0		"Sim, creio que sim. E daí?"
+		1	1	0	NV_ID_0022					-1	0	0	0		"Bem, aquele aldeão nos disse para tomarmos cuidado com palavras contagiosas, certo?"
+		1	1	0	NV_ID_0023					-1	0	0	0		O prefeito se inclinou para a frente com interesse renovado,
+empurrando um Weiss assustado para o lado no processo.
+		1	1	0	NV_ID_0024					-1	0	0	0		"Bem, ele deve ter dito <FONT=ITALIC>alguma coisa,</FONT> certo?", perguntou o prefeito. "Alguma combinação específica de palavras? O que
+foi?"<PAGE>
+		1	1	0	NV_ID_0025					-1	0	0	0		"Era sobre sonhar, ou algo que sonha, ou...
+Ah, que diabos era?"
+		1	1	0	NV_ID_0026					-1	0	0	0		"Uma ovelha!?", gritou Weiss de repente, soltando a primeira coisa que lhe veio à cabeça.
+1027	1028	1	1	0	NV_ID_0027					-1	0	0	0		Os outros o encararam por um momento antes de balançar lentamente a cabeça. <STOP>Depois de mais alguns minutos de reflexão, o rosto de <NIER> se iluminou de repente.
+		1	1	0	NV_ID_0028					-1	0	0	0		"Lembrei!", disse ele. "'Os que sonham.' Foi o que ele disse, tenho certeza."
+		1	1	0	NV_ID_0029					-1	0	0	0		Com isso, o prefeito tirou do bolso um grosso maço de papéis. Folheou-os algumas vezes antes de finalmente acenar sua aprovação a <NIER>.<PAGE>
+		1	1	0	NV_ID_0030					-1	0	0	0		"Parece certo", disse ele, enquanto uma folha solta caía no chão. "Minhas anotações também mencionam algo sobre isso. Aposto que foi a última coisa que vocês ouviram antes de adormecer."
+1028	1029	1	1	0	NV_ID_0031					-1	0	0	0		O prefeito balançou a cabeça, o toco de lápis gasto traçando linhas numa folha solitária.<PAGE>
+		1	1	0	NV_ID_0032					-1	0	0	0		"No último mês, não fiz nada além de estudar a doença que chamamos de Sonho Mortal", disse ele. <STOP>"Quer dizer, sou o prefeito, certo? É meu trabalho proteger as pessoas do que quer que apareça. Mas nunca esperei que uns forasteiros começassem a entrar nos sonhos das pessoas." <STOP>O prefeito fez uma pausa, uma careta cruzando seu rosto. "Provavelmente eu devia estar fazendo anotações ou algo assim."<PAGE>
+		1	1	0	NV_ID_0033					-1	0	0	0		Weiss rebateu de imediato.
+		1	1	0	NV_ID_0034					-1	0	0	0		"Aplaudo a força de vontade necessária para pesquisar uma doença nos próprios sonhos", disse ele, "mas talvez devêssemos dedicar nossos esforços a escapar deste lugar em vez de tentar
+compreendê-lo."
+1029	1030	1	1	0	NV_ID_0035					-1	0	0	0		A mão do prefeito apertou o lápis, quebrando a ponta.<PAGE>
+		1	1	0	NV_ID_0036					-1	0	0	0		"Eu tentei escapar. <STOP>Desde o primeiro momento em que percebi que estava preso no meu próprio sonho, procuro uma saída... mas acho que ela não existe. <STOP>Quer dizer, este é o <FONT=ITALIC>meu</FONT> sonho, certo? Se houvesse uma saída, eu saberia."
+1030	1031	1	1	0	NV_ID_0037					-1	0	0	0		Ele fez uma pausa, os olhos desfocados fitando o nada.<PAGE>
+		1	1	0	NV_ID_0038					-1	0	0	0		"Minha vila era linda", disse ele a ninguém em particular. "E era cheia das pessoas mais maravilhosas que se poderia esperar conhecer. <STOP>Mas quando esta doença tomou conta, as coisas... mudaram. É como se alguém pegasse uma esponja e encharcasse toda a cor das nossas vidas. <STOP>Só quero que sejamos inteiros de novo. Quero que sejamos livres." <STOP>A voz do prefeito ganhou uma nota de determinação férrea. "E não vou parar de tentar até que aconteça."
+1031	1032	1	1	0	NV_ID_0039					-1	0	0	0		<NIER> assentiu em concordância.
+		1	1	0	NV_ID_0040					-1	0	0	0		"Hã? Espere um segundo, eu não assenti. Por que você...?"
+		1	1	0	NV_ID_0041					-1	0	0	0		"Olhe. Se pudermos ajudar em algo", disse <NIER>, "é só pedir."
+		1	1	0	NV_ID_0042					-1	0	0	0		"Agora espere! Eu <FONT=ITALIC>não</FONT> disse isso!"<PAGE>
+		1	1	0	NV_ID_0043					-1	0	0	0		"Silêncio!", gritou Weiss.
+1032	1033	1	1	0	NV_ID_0044					-1	0	0	0		O grimório olhou de <NIER> para o prefeito e de volta, o rosto se enchendo de confiança.
+		1	1	0	NV_ID_0045					-1	0	0	0		"O rosto do Grimoire Weiss está sempre confiante, muito obrigado! <STOP>Agora veja bem, Prefeito. O senhor nos disse que nada pode existir neste sonho sem o seu conhecimento. <STOP>Mas pareceu surpreso ao nos ver quando chegamos, não é?"<PAGE>
+1033	1034	1	1	0	NV_ID_0046					-1	0	0	0		O prefeito ergueu lentamente a cabeça, a compreensão surgindo em seu rosto.
+		1	1	0	NV_ID_0047					-1	0	0	0		"Meu Deus", disse ele. "Você tem razão. Você tem <FONT=ITALIC>razão!</FONT> Eu não fazia ideia de que vocês viriam!"
+		1	1	0	NV_ID_0048					-1	0	0	0		"A imaginação humana é um motor ilimitado", disse Weiss, "e os sonhos são o combustível. Se você consegue imaginar uma saída, então ela deve existir. <STOP>Com a sua permissão, vamos procurá-la."
+		1	1	0	NV_ID_0049					-1	0	0	0		"Obrigado", disse o prefeito. "Não sei como retribuir."
+1034	1035	1	1	0	NV_ID_0050					-1	0	0	0		"Pagamento não é necessário. Estamos tão ansiosos quanto o senhor para acabar com este lugar."
+		1	1	0	NV_ID_0051					-1	0	0	0		O prefeito sentiu de repente que podia respirar de novo. Quase esquecera como era.
+		1	1	0	NV_ID_0052			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		"Boa sorte, vocês dois!", gritou ele para as figuras que partiam de <NIER> e Weiss. "Estamos todos contando com vocês!"<PAGE>
+		1	1	0	NV_ID_0053					-1	0	0	0		Enquanto <NIER> desvanecia lentamente na floresta enevoada, o prefeito foi tomado por uma sensação de déjà vu.
+1035	1036	1	1	0	NV_ID_0054					-1	0	0	0		<FONT=ITALIC>Já vi este homem antes,</FONT> pensou. <FONT=ITALIC>Mas onde...?</FONT>
+1036	1037	1	1	0	NV_ID_0058			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		O humor de <NIER> piorou enquanto ele se arrastava pela floresta. <STOP>Horas antes, quando a beleza do lugar ainda era novidade, ele estava confiante de que entrariam, achariam a saída e estariam em casa a tempo do jantar.
+1037	1038	1	1	0	NV_ID_0059					-1	0	0	0		Mas quanto mais fundo iam, mais a floresta se fechava ao redor dele. A névoa dificultava ver além de um palmo em qualquer direção, e rochas cobertas de musgo pareciam decididas a torcer seu tornozelo. <STOP>Mais de uma vez fora obrigado a se apoiar na casca áspera de uma árvore, e suas mãos agora deixavam pequenos rastros de sangue em tudo que tocavam.<PAGE>
+		1	1	0	NV_ID_0060					-1	0	0	0		Além disso, Weiss se mostrava um péssimo companheiro de viagem. Sem ser atrapalhado nem pelo terreno nem pelo esforço físico, passava a maior parte do tempo instando <NIER> a acelerar o passo e resmungando sobre o progresso lento.<PAGE>
+		1	1	0	NV_ID_0061					-1	0	0	0		Por fim, depois de Weiss murmurar algo sobre tartarugas sem pernas serem mais hábeis em navegar o ambiente, <NIER> explodiu.
+<STOP>"Sabe de uma coisa, Weiss?", gritou. "Vá para o inferno. Vamos parar. Preciso descansar uns minutos antes de vomitar."
+1038	1039	1	1	0	NV_ID_0062					-1	0	0	0		<NIER> se encostou numa árvore e tentou alongar os nós das costas. "Como esta floresta idiota pode ser tão maldita de grande?", murmurou para si mesmo.<PAGE>
+		1	1	0	NV_ID_0063					-1	0	0	0		No instante em que as palavras saíram de sua boca, uma cacofonia de insetos despertou. <STOP>Como se enfurecidos pela falta de respeito, toda forma imaginável de zumbido, estalo e chiado rugiu com um volume que lhe sacudiu os dentes.
+1039	1040	1	1	0	NV_ID_0064					-1	0	0	0		<NIER> tapou os ouvidos com as mãos e gritou para ser ouvido. "Weiss! Que diabos está acontecendo?"
+		1	1	0	NV_ID_0065			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		<NIER> via a boca de Weiss se mover, mas era como se ele gritasse dentro de um tornado. <STOP>Os insetos gritavam. A floresta uivava. <STOP>E então, justo quando os ouvidos de <NIER> pareciam prestes a se arrancar da cabeça e sair correndo para se esconder, o som diminuiu. <STOP>Hesitante, <NIER> tirou a mão do ouvido esquerdo e escutou as criaturas da mata.
+1040	1041	1	1	0	NV_ID_0066					-1	0	0	0		<FONT=ITALIC>Zree! Zree! Zree! Zree!</FONT>
+		1	1	0	NV_ID_0067					-1	0	0	0		<FONT=ITALIC>Shak-k-k-k! Shak-k-k-k! Shak-k-k-k!</FONT>
+		1	1	0	NV_ID_0068					-1	0	0	0		<FONT=ITALIC>Chk-chk-chee! Chk-chk-chee! Chk-chk-chee!</FONT>
+		1	1	0	NV_ID_0069					-1	0	0	0		<FONT=ITALIC>Woo-woo-wooma! Woo-woo-wooma!</FONT>
+		1	1	0	NV_ID_0070					-1	0	0	0		<FONT=ITALIC>Shik shik seeek! Shik shik! Shik shik seeeek!</FONT><PAGE>
+		1	1	0	NV_ID_0071					-1	0	0	0		Enquanto a sinfonia dos insetos baixava mais um decibel, <NIER> começou a detectar padrões no som. <FONT=ITALIC>Isto não é aleatório,</FONT> pensou. <FONT=ITALIC>Não é só ruído branco. É... outra coisa.</FONT>
+		1	1	0	NV_ID_0072			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		Os insetos não só gritavam; faziam uma pergunta.
+1041	1042	1	1	0	NV_ID_0075					-1	0	0	0		<FONT=ITALIC>Um com ela sofre. Dois com ela é o ideal.
+Três com ela é perigoso. O que é?</FONT>
+		1	1	0	NV_ID_0077					-1	0	0	0		"Pelas minhas páginas! Isto é um enigma?"
+		1	1	0	NV_ID_0078					-1	0	0	0		"Acho que sim. Esse tipo de coisa acontece muito em sonhos, né? Talvez seja a chave para sair deste lugar."
+		1	1	0	NV_ID_0079					-1	0	0	0		"Então deixo a resposta a seu cargo!"
+1042		1	1	0	NV_ID_0080					-1	0	0	0		<FONT=ITALIC>Um com ela sofre. Dois com ela é o ideal.
+Três com ela é perigoso. O que é?</FONT>
+
+		1	1	0						-1	0	0	0		<LIST=1045>"A resposta é... um segredo."</LIST>
+<LIST=1043>"A resposta é... uma mulher."</LIST>
+<LIST=1044>"...Como diabos eu vou saber!?"</LIST>
+1043	1041	1	1	0	NV_ID_0087					-1	0	0	0		"Há muitas coisas neste mundo difíceis de lidar, mas só uma pode me levar ao meu limite..."
+		1	1	0	NV_ID_0088					-1	0	0	0		"É uma mulher!"
+		1	1	0	NV_ID_0089					-1	0	0	0		A boca de Weiss se abriu, mas antes que ele pudesse dizer algo, o mundo de repente mudou.<PAGE>
+		1	1	0	NV_ID_0091					-1	0	0	0		<FONT=ITALIC>Reen reen whaaaa! Reen reeen whaaaa!</FONT>
+		1	1	0	NV_ID_0092					-1	0	0	0		<FONT=ITALIC>Shik shik kee! Shik shik kee!</FONT>
+		1	1	0	NV_ID_0093					-1	0	0	0		Quando <NIER> voltou a si, estava de novo cercado pelo som dos insetos.
+		1	1	0	NV_ID_0094					-1	0	0	0		Os gritos dos insetos formavam palavras. Palavras que ele ouvira em algum lugar antes...
+1044	1041	1	1	0	NV_ID_0099					-1	0	0	0		"...Como diabos eu vou saber!?"
+		1	1	0	NV_ID_0100					-1	0	0	0		A boca de Weiss se abriu, mas antes que ele pudesse dizer algo, o mundo de repente mudou.<PAGE>
+		1	1	0	NV_ID_0102					-1	0	0	0		<FONT=ITALIC>Reen reen whaaaa! Reen reeen whaaaa!</FONT>
+		1	1	0	NV_ID_0103					-1	0	0	0		<FONT=ITALIC>Shik shik kee! Shik shik kee!</FONT>
+		1	1	0	NV_ID_0104					-1	0	0	0		Quando <NIER> voltou a si, estava de novo cercado pelo som dos insetos.
+		1	1	0	NV_ID_0105					-1	0	0	0		Os gritos dos insetos formavam palavras. Palavras que ele ouvira em algum lugar antes...
+1045	1046	1	1	0	NV_ID_0110					-1	0	0	0		Furioso por dentro porque Weiss deixara a tarefa para ele, <NIER> suspirou e deu a única resposta que fazia sentido.
+		1	1	0	NV_ID_0111					-1	0	0	0		"É um segredo. <STOP>Hã, certo?"
+1046	1047	1	1	0	NV_ID_0115			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		O som dos insetos cessou tão de repente quanto começara. A vegetação rasteira da floresta se abriu diante de <NIER> como uma onda ondulante, abrindo um novo caminho.
+		1	1	0	NV_ID_0116					-1	0	0	0		"Esses artrópodes da floresta estão fazendo uma estrada para nós!", disse Weiss com alegria.
+		1	1	0	NV_ID_0117					-1	0	0	0		Satisfeito por passar no teste, <NIER> seguiu adiante com nova intensidade.
+1047	1048	1	1	0	NV_ID_0119			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		O caminho deu ao seu corpo alívio da vegetação, mas deu ainda mais ânimo à sua mente. Enquanto estivessem num caminho, a jornada tinha propósito.
+		1	1	0	NV_ID_0120					-1	0	0	0		"Acho que a floresta nos aceitou, né?", disse <NIER> depois de um tempo.
+		1	1	0	NV_ID_0121					-1	0	0	0		Weiss girou para encarar o companheiro.
+		1	1	0	NV_ID_0122					-1	0	0	0		"Não confunda a vontade desta floresta com um bichinho feliz com quem você pode de repente fazer amizade! Não temos ideia de aonde este caminho leva."
+1048	1049	1	1	0	NV_ID_0123					-1	0	0	0		Assim que Weiss terminou de falar, a dupla dobrou uma curva e se viu diante de uma límpida nascente da floresta. Sorrindo, <NIER> pegou uma pedrinha e a fez quicar pela superfície da água.
+		1	1	0	NV_ID_0124					-1	0	0	0		"Santo céu...", disse Weiss.
+		1	1	0	NV_ID_0125					-1	0	0	0		Sua surpresa era compreensível. Cada vez que a pedra tocava a superfície da água, uma nota musical soava. <STOP>Quando a pedra finalmente parou e afundou no fundo da nascente, as ondulações que deixou se juntaram para formar palavras.
+1049	1050	1	1	0	NV_ID_0128			<CB=BGM_EID_1500_a0020g_0010_02>		-1	0	0	0		<FONT=ITALIC>Entro pela janela, mas não quebro vidro.
+Quando cai a noite, desapareço. O que sou?</FONT>
+		1	1	0	NV_ID_0130					-1	0	0	0		"Absurdamente fácil!", latiu Weiss. "Agora responda."
+		1	1	0	NV_ID_0131					-1	0	0	0		<NIER> cerrou os dentes e tentou não estrangular o companheiro. <FONT=ITALIC>Ele tem razão, afinal. Esta é bem fácil.</FONT>
+1050		1	1	0	NV_ID_0132					-1	0	0	0		<FONT=ITALIC>Entro pela janela, mas não quebro vidro.
+Quando cai a noite, desapareço. O que sou?</FONT>
+
+		1	1	0						-1	0	0	0		<LIST=1051>"Um pássaro!"</LIST>
+<LIST=1052>"Uma carta!"</LIST>
+<LIST=1053>"Luz do sol!"</LIST>
+1051	1049	1	1	0	NV_ID_0138					-1	0	0	0		"Um pássaro!"
+		1	1	0	NV_ID_0140					-1	0	0	0		Weiss soltou um gemido baixo e caiu no chão com um baque.
+		1	1	0	NV_ID_0141					-1	0	0	0		"Certamente até a <FONT=ITALIC>sua</FONT> tolice não é tão profunda!"
+		1	1	0	NV_ID_0142					-1	0	0	0		"...Acho que você tem razão", disse <NIER>. "Isso não faz sentido, faz?"
+1052	1049	1	1	0	NV_ID_0146					-1	0	0	0		"Uma carta!"
+		1	1	0	NV_ID_0148					-1	0	0	0		"De fato", disse Weiss. "Estou tão cansado de cartas que brotam pernas e fogem do meu quarto na calada da noite."
+		1	1	0	NV_ID_0149					-1	0	0	0		"...Droga. É, isso não faz sentido, faz?"
+		1	1	0	NV_ID_0151					-1	0	0	0		Weiss se virou de <NIER> e farfalhou as páginas com tristeza.
+		1	1	0	NV_ID_0152					-1	0	0	0		"...Talvez <FONT=ITALIC>eu</FONT> devesse ter assumido este desafio, afinal."
+1053	1054	1	1	0	NV_ID_0157					-1	0	0	0		"Luz do sol!"
+		1	1	0	NV_ID_0159			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		Um jato de água irrompeu de repente da nascente. A luz do sol filtrada pelas árvores refletiu-se no jato, criando um arco-íris cintilante que cobria todo o horizonte.
+		1	1	0	NV_ID_0160					-1	0	0	0		"Em todos os meus anos", disse Weiss baixinho, "nunca vi tal visão."
+		1	1	0	NV_ID_0161					-1	0	0	0		"Talvez eu tenha entendido mal as intenções deste lugar..."<PAGE>
+		1	1	0	NV_ID_0162					-1	0	0	0		"Ei, olhe!", gritou <NIER>, despertando Weiss do seu devaneio. "Tem uma casa ou algo assim ali."
+		1	1	0	NV_ID_0163					-1	0	0	0		Olhando na direção da mão estendida do amigo, Weiss viu uma pequena cabana aninhada entre as árvores.
+1054	1055	1	1	0	NV_ID_0164					-1	0	0	0		"Isso é estranho, não é, Weiss? Quer dizer, quem construiria uma casa tão longe aqui?"
+		1	1	0	NV_ID_0165					-1	0	0	0		<NIER> foi até lá e bateu na porta. Depois de um minuto de batidas firmes, a porta se entreabriu e um homem pequeno espiou. Seu corpo estava coberto do pescoço aos pés por uma grande capa preta, e o rosto, encoberto por névoa.<PAGE>
+		1	1	0	NV_ID_0166					-1	0	0	0		"Hã...", começou <NIER>. Mas antes que pudesse continuar, o homem encapuzado ergueu a mão e começou a falar.
+1055	1056	1	1	0	NV_ID_0169			<CB=BGM_EID_1500_a0020g_0010_03>		-1	0	0	0		<FONT=ITALIC>De manhã tenho quatro pernas e ao meio-dia duas, mas termino a noite com três. O que sou?</FONT>
+		1	1	0	NV_ID_0171					-1	0	0	0		<NIER> tentou perguntar ao homem encapuzado quem era e o que fazia ali, mas ele simplesmente repetiu a pergunta.
+		1	1	0	NV_ID_0172					-1	0	0	0		"Se queremos conversar com este homem", disse Weiss, "parece que devemos responder ao enigma dele."
+		1	1	0	NV_ID_0173					-1	0	0	0		"É, suponho", disse <NIER>. "Bem, pelo menos é fácil."
+1056		1	1	0	NV_ID_0174					-1	0	0	0		<FONT=ITALIC>De manhã tenho quatro pernas e ao meio-dia duas, mas termino a noite com três. O que sou?</FONT>
+
+		1	1	0						-1	0	0	0		<LIST=1059>"Um homem."</LIST>
+<LIST=1057>"Um demônio."</LIST>
+<LIST=1058>"Um anjo."</LIST>
+1057	1056	1	1	0	NV_ID_0180					-1	0	0	0		"Um demônio."
+		1	1	0	NV_ID_0182					-1	0	0	0		Assim que as palavras foram ditas, a floresta começou a girar ao redor deles. <STOP>As folhas escureceram e caíram das árvores. Os galhos murcharam e morreram. E a alta relva verde encolheu em escuros cachos de cinzas.
+		1	1	0	NV_ID_0183					-1	0	0	0		Um demônio imenso surgiu de repente diante de <NIER> e soltou um rugido tremendo.
+		1	1	0	NV_ID_0185					-1	0	0	0		"Errado! Agora tente de novo!"
+1058	1056	1	1	0	NV_ID_0189					-1	0	0	0		"Um anjo."
+		1	1	0	NV_ID_0191					-1	0	0	0		Assim que as palavras foram ditas, <NIER> se viu coberto por uma neve de penas perfeitamente brancas.
+		1	1	0	NV_ID_0192					-1	0	0	0		Uma sensação cálida e suave subiu por sua espinha enquanto uma criatura de beleza inimaginável cintilava à existência.
+		1	1	0	NV_ID_0193					-1	0	0	0		<NIER> não conseguiu conter as lágrimas enquanto a voz do ser ecoava.
+		1	1	0	NV_ID_0195					-1	0	0	0		"Você está incorreto. Por favor, faça outra escolha."
+1059	1060	1	1	0	NV_ID_0200					-1	0	0	0		"Um homem."
+1060	1061	1	1	0	NV_ID_0204			<CB=BGM_EID_1500_a0020g_0010_01>		-1	0	0	0		A névoa se dissipou da figura encapuzada quando ele falou uma única palavra:
+		1	1	0	NV_ID_0205					-1	0	0	0		"Correto."
+		1	1	0	NV_ID_0206					-1	0	0	0		Com isso, o homem atirou a capa de lado, revelando sua verdadeira identidade.
+		1	1	0	NV_ID_0208					-1	0	0	0		"V-você é o prefeito!", gritou <NIER>.
+		1	1	0	NV_ID_0210					-1	0	0	0		O homem pequeno balançou lentamente a cabeça.
+1061	1062	1	1	0	NV_ID_0211					-1	0	0	0		"Eu não sou o prefeito que você conhece. Agora escute as minhas palavras: <STOP>Há muito tempo, vi uma versão de você que não era você mesmo."
+		1	1	0	NV_ID_0212					-1	0	0	0		"Você viu... Espere, viu o quê? Desculpe, não entendi nada do que você acabou de dizer."
+		1	1	0	NV_ID_0213					-1	0	0	0		"Fará sentido com o tempo. Por ora, apenas o parabenizo por ter quebrado o selo do Sonho Mortal. Agora você deve ir ao homem na entrada da floresta."
+1062	1063	1	1	0	NV_ID_0214					-1	0	0	0		Com isso, o homem girou nos calcanhares e bateu a porta atrás de si. Enquanto <NIER> observava, a névoa subiu do chão e envolveu a cabana, apagando-a da existência.
+1063	1064	1	1	0	NV_ID_0216					-1	0	0	0		Quando <NIER> e Weiss voltaram à entrada da floresta, encontraram o prefeito encostado numa árvore. <STOP>Assim que avistou a dupla, ele se levantou de um salto e correu até eles.
+		1	1	0	NV_ID_0217					-1	0	0	0		"Santo Deus!", gritou. "Vocês conseguiram! Vocês realmente voltaram!"
+		1	1	0	NV_ID_0218					-1	0	0	0		Sua mão esquerda agarrou a de <NIER> e a sacudiu com tanta força que ameaçava soltá-la da articulação, enquanto a direita pegou Weiss pela capa e o balançou no ar.<PAGE>
+		1	1	0	NV_ID_0219					-1	0	0	0		"Gah! Pelos céus, pare de me sacudir, tolo! Nem sequer dissemos se tivemos sucesso ou não!"
+		1	1	0	NV_ID_0220					-1	0	0	0		O prefeito abriu um largo sorriso e balançou a cabeça.
+1064	1065	1	1	0	NV_ID_0221					-1	0	0	0		"Só estou feliz que vocês estão vivos! Não achei que fosse vê-los de novo."
+		1	1	0	NV_ID_0222					-1	0	0	0		<NIER> se desvencilhou do aperto de mão ansioso do prefeito com um leve sorriso.
+		1	1	0	NV_ID_0223					-1	0	0	0		"Quebramos o selo do Sonho Mortal", disse ele. "Pelo menos, acho que sim."<PAGE>
+		1	1	0	NV_ID_0224					-1	0	0	0		O rosto do prefeito se iluminou enquanto <NIER> lhe contava os detalhes.
+		1	1	0	NV_ID_0226					-1	0	0	0		Quando a história acabou, os três se deitaram no chão da floresta e adormeceram.
+1065	1066	1	1	0	NV_ID_0228					-1	0	0	0		"Espere um segundo!"
+1066	1067	1	1	0	NV_ID_0229					-1	0	0	0		"Isso é loucura! Por que simplesmente nos deitaríamos para dormir? Que história e tanto..."
+		1	1	0	NV_ID_0230					-1	0	0	0		"Cesse o seu falatório sem fim e vá dormir, tolo! Lutar contra as regras deste lugar é a própria futilidade."
+		1	1	0	NV_ID_0231					-1	0	0	0		<NIER> e o prefeito se reclinaram obedientes sobre a terra gramada.
+1067	1068	1	1	0	NV_ID_0232					-1	0	0	0		"Esqueceu?", continuou Weiss. "São as palavras que controlam o Sonho Mortal, palavras que nos permitem passar de um lugar a outro. <STOP>Por mais antinaturais que pareçam, as palavras são absolutas. Portanto, se as palavras mandam dormir, dormiremos. <STOP>E quando o fizermos, a história continuará."
+1068		1	1	0	NV_ID_0233					-1	0	0	0		Com isso, os três sentiram os olhos pesarem e a respiração desacelerar.
+		1	1	0	NV_ID_0234					-1	0	0	0		"Esta é a primeira vez...", começou o prefeito. "A primeira vez que sinto cansaço... desde que fui... aprisionado aqui..."
+		1	1	0	NV_ID_0235					-1	0	0	0		Suas palavras foram cortadas por um bocejo longo e alto, e ele não se lembrou de mais nada.<PAGE>
+		1	1	0	NV_ID_0237				<CB=BG_AND_ENV_FADE_IN>
+<CB=CHANGE_WINDOW_SIZE,2,1362,1069>	-1	0	0	0		Podem ter dormido uma hora ou um ano. <STOP>Quando acordaram, as coisas tinham uma qualidade um pouco mais real. A névoa parecia mais espessa, as folhas mais verdes... Era claro que haviam despertado do sonho.
+1069	1070	1	1	0	NV_ID_0238			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		<NIER> sacudiu suavemente o ombro do prefeito. "Boas notícias", disse. "Conseguimos."
+		1	1	0	NV_ID_0239					-1	0	0	0		"Ah, uau", disse o prefeito num tom admirado. "Conseguimos. Voltei." Piscou uma vez, duas, como se não acreditasse totalmente na visão diante de si.
+		1	1	0	NV_ID_0240					-1	0	0	0		"Vocês dois não fazem ideia do quanto isto significa."<PAGE>
+		1	1	0	NV_ID_0241					-1	0	0	0		"O Sonho Mortal começara a se espalhar pela nossa vila, e eu queria... Bem, achei que poderia descobrir como detê-lo, mas parece que não foi o caso. Devo ter pegado a doença e ficado preso no meu próprio sonho."
+1070	1071	1	1	0	NV_ID_0242					-1	0	0	0		O prefeito começou a se levantar, depois desabou de novo na terra. Olhou para as pernas como se tentasse lembrar como funcionavam, depois olhou para <NIER> e deu de ombros. <STOP>Sem dizer uma palavra, o lutador se abaixou e ergueu o prefeito.
+		1	1	0	NV_ID_0243					-1	0	0	0		"A vida real pode levar um tempo para se reacostumar." Um sorriso irônico cruzou os lábios do prefeito.<PAGE>
+		1	1	0	NV_ID_0244					-1	0	0	0		"O senhor reaprenderá em pouco tempo, tenho certeza", disse Weiss. "Por ora, deve voltar para casa e descansar."
+		1	1	0	NV_ID_0245					-1	0	0	0		"Não", disse o prefeito, oscilando em pés instáveis. "Não, não posso."
+1071	1072	1	1	0	NV_ID_0246					-1	0	0	0		"Alguns aldeões ainda estão presos no Sonho Mortal. Tenho que salvá-los."
+		1	1	0	NV_ID_0247					-1	0	0	0		O prefeito foi devagar até a Árvore Divina no centro da vila, então baixou a cabeça e rezou em silêncio.
+		1	1	0	NV_ID_0248					-1	0	0	0		"Esta é uma árvore sagrada", explicou quando a prece terminou. "É a guardiã da história... e das memórias da nossa vila."
+		1	1	0	NV_ID_0249					-1	0	0	0		"A superstição só dificultará a nossa missão", murmurou Weiss. "Não devemos depositar nossa fé nos deuses."
+1072	1073	1	1	0	NV_ID_0250					-1	0	0	0		O prefeito balançou a cabeça. "Não nos deuses: nas palavras. A lenda diz que a nossa árvore abriga uma magia poderosa conhecida como Verso Selado."
+		1	1	0	NV_ID_0251					-1	0	0	0		<NIER> e Weiss não conseguiram conter a surpresa. Parecia que um objetivo fora encontrado no lugar mais inesperado
+de todos.<PAGE>
+		1	1	0	NV_ID_0252					-1	0	0	0		"Digo", murmurou Weiss, "isto é certamente um golpe de sorte."
+		1	1	0	NV_ID_0254					-1	0	0	0		Enquanto os três se despediam, <NIER> mencionou o estranho homem que lhes dera o terceiro enigma e as palavras misteriosas que deixara.
+1073	1074	1	1	0	NV_ID_0255					-1	0	0	0		"Uma vez vi uma versão de você que não era você mesmo?", murmurou o prefeito. "Que diabos...?"
+		1	1	0	NV_ID_0256					-1	0	0	0		Perdido em pensamentos, ficou olhando o vazio por um longo momento.
+		1	1	0	NV_ID_0257					-1	0	0	0		"Sabe", disse baixinho, "isto vai parecer estranho...
+mas tive a sensação de que também já tinha visto você antes."
+		1	1	0	NV_ID_0258					-1	0	0	0		<NIER> tentou manter a cara séria e falhou, mas o prefeito pareceu não notar.
+		1	1	0	NV_ID_0259					-1	0	0	0		"Déjà vu, né? Enfim, imagino que seja só uma ilusão criada pelo Sonho Mortal. Provavelmente não significa nada."
+1074		1	1	0	NV_ID_0260					-1	0	0	0		<NIER> assentiu ao prefeito com um sorriso, mas por dentro seus pensamentos corriam. <STOP><FONT=ITALIC>Há algo errado com o prefeito e suas palavras.</FONT> <STOP><FONT=ITALIC>...Queria entender o que diabos está acontecendo aqui.</FONT>
+		1	1	0	NV_ID_0261				<CB=BGM_C_FOREST_FIELD_01>
+<CB=LIB_SET_OPEN_2D_GAUGE_FAST>
+<CB=CHANGE_WINDOW_SIZE,0,1362,1005>	-1	0	0	0		Aquele enigma se provaria o mais difícil de todos.
+1075	1076	1	1	0	NV_ID_0264			<CB=BGM_EID_1500_a0108_01>
+<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		Respiro um ar perfumado de morte e resisto ao impulso de rir, pois sei que soará como as palavras de um louco. Há quanto tempo estou neste inferno recém-aberto?
+<STOP>Minha caixa, minha prisão, está enfiada sob uma escada nas catacumbas há muito sem uso de algum castelo infinito. Lá fora, ouço os sons de uma marcha fúnebre que parece não ter fim. <STOP>A luz não tem lugar aqui. O vento é um amigo esquecido. Rezo para que a Morte venha, mas Ela me abandona. <STOP>O tempo passa. Uma eternidade escorre num único tique do relógio.<PAGE>
+		1	1	0	NV_ID_0266					-1	0	0	0		Alguém bate na minha prisão!
+1076	1077	1	1	0	NV_ID_0267					-1	0	0	0		"Ei! Alguém aí!?", ouço uma voz desconhecida dizer.
+		1	1	0	NV_ID_0268					-1	0	0	0		Meu salvador! <STOP>Arranho a porta da minha cela, cravando grossas farpas sob as unhas esfarrapadas. Grito por socorro; rio; soluço. Certamente isto é produto da minha mente perturbada! Certamente não pode ser verdade!
+		1	1	0	NV_ID_0269					-1	0	0	0		"Me ajudem!", grito. "Pelo amor de todos os deuses, me ajudem!"<PAGE>
+		1	1	0	NV_ID_0270					-1	0	0	0		Impossivelmente, ouço o som de uma fechadura sendo arrancada e caindo no chão. <STOP>Enquanto a porta range lentamente ao abrir, tenho tempo apenas de ver um homem de cabelos prateados e um livro flutuante antes que a luz jorre para dentro. Meus olhos, acostumados à escuridão, explodem de dor, e sou forçada a desviar o rosto.<PAGE>
+		1	1	0	NV_ID_0271					-1	0	0	0		"Quem são vocês?", pergunto, mãos trêmulas cobrindo o rosto. "Como chegaram a este lugar?"
+		1	1	0	NV_ID_0272					-1	0	0	0		"Sou o Grimoire Weiss. Este é <NIER>. Há muito o procuramos. <STOP>Agora venha. Levante-se. Despertaremos deste pesadelo juntos."
+1077	1078	1	1	0	NV_ID_0273					-1	0	0	0		Aquele conhecido como <NIER> estende a mão enorme e me puxa da cela. <STOP>Embora meus olhos demorem a se ajustar à liberdade, meus ouvidos estão tão aguçados como sempre, e reconhecem os sons em staccato de uma chuva pesada.
+		1	1	0	NV_ID_0274					-1	0	0	0		"Nunca pensei em ouvir a chuva de novo", sussurro.
+		1	1	0	NV_ID_0275					-1	0	0	0		"Quisera que não fosse uma tempestade tão terrível", disse Grimoire Weiss. "Olhe para os seus pés."<PAGE>
+		1	1	0	NV_ID_0276					-1	0	0	0		Forço os olhos a abrir e vejo água se acumulando ao redor dos meus pés e lambendo as minhas canelas.
+		1	1	0	NV_ID_0277					-1	0	0	0		"Há tanta..."
+1078		1	1	1	NV_ID_0278					-1	0	0	0		"Sim, e mais vem a cada momento que demoramos. Se não escaparmos a tempo, todos nos afogaremos neste castelo. <STOP>Sabemos que o senhor está fraco, mas é a nossa única esperança de sobreviver a este lugar."
+		1	1	0	NV_ID_0279					-1	0	0	0		O tempo, aquele amigo há muito esquecido, tornou-se presente novamente. Assenti com a cabeça e jurei salvar meus resgatadores, custasse o que custasse.<PAGE>
+		1	1	0	NV_ID_0281			<CB=BGM_EID_1500_a0108_02>	<CB=Labyrinth_Init>
+<CB=Labyrinth_Event>	-1	0	0	0		As catacumbas do castelo são um labirinto, contorcendo-se sobre si mesmas como as entranhas sem fim de um gigante.
+1079	1080	1	1	0	NV_ID_0293					-1	0	0	0		No fim do corredor...
+		1	1	0	NV_ID_0295					-1	0	0	0		Encontro uma fileira de vinte belas camas com dossel sobre um tapete de veludo. Todas cobertas por uma grossa camada de poeira e teias de aranha.<PAGE>
+		1	1	0	NV_ID_0296					-1	0	0	0		Procurando a porta da próxima sala, deparo com uma massa informe de matéria cinzenta. Foi empurrada contra a lateral da parede e, apesar da febre, acho ver os contornos de uma porta logo além. <STOP>Quando estendo um dedo e toco um pedaço da massa, ela vira pó e é levada pelo vento. <STOP>A compreensão desponta devagar, e caio de joelhos e choro.
+		1	1	0	NV_ID_0297					-1	0	0	0		...Cadáveres. Encaro uma montanha de cadáveres carbonizados e esfarelando.
+1080	1104	1	1	0	NV_ID_0298					-1	0	0	0		Olho dela para as camas e de volta até que o horror me atinge por completo: <STOP>Alguém empilhou esses corpos numa torre e ateou fogo. <STOP>Se estavam vivos ou mortos, não sei — e a sanidade não me permite considerar a proposição mais a fundo.
+		1	1	0	NV_ID_0299					-1	0	0	0		Emito um som, grito ou riso não sei dizer. Então minha mente me concede misericordiosa escuridão, e me vejo abrindo a porta e deixando aquela mais terrível das salas.
+1081	1082	1	1	0	NV_ID_0302					-1	0	0	0		No fim do caminho...
+		1	1	0	NV_ID_0304					-1	0	0	0		Uma fileira de pesados barris de madeira jaz de lado numa câmara escura. Sem dúvida estão cheios de vinho.
+		1	1	0	NV_ID_0305					-1	0	0	0		Minha sede ruge; não lembro quando minha garganta ressecada teve alívio pela última vez.
+1082	1083	1	1	0	NV_ID_0306					-1	0	0	0		Corro ao primeiro barril e puxo freneticamente a rolha. <STOP><FONT=ITALIC>O furto de algumas taças não significa nada,</FONT> digo a mim mesmo. <FONT=ITALIC>Os barris serão arruinados pela enchente de qualquer forma.</FONT> <STOP>Por fim, a rolha cede ao meu ataque, e um líquido vermelho espesso jorra do buraco.
+		1	1	0	NV_ID_0307			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		Isto não é vinho: é sangue ainda quente do corpo! Se de animal ou... outra coisa, não sei dizer.
+		1	1	0	NV_ID_0308					-1	0	0	0		O líquido imundo logo se mistura às águas da enchente que sobem, criando um calor que lambe as minhas coxas.<PAGE>
+		1	1	0	NV_ID_0309					-1	0	0	0		Por todos os deuses! Os demais barris também estão cheios de sangue?
+1083	1100	1	1	0	NV_ID_0310					-1	0	0	0		Falta-me coragem para confirmar a suspeita. O nojo logo vira medo quando me viro para fugir, mas minhas pernas enfraquecidas me traem, derrubando-me no oceano vermelho abaixo.
+		1	1	0	NV_ID_0311					-1	0	0	0		O cheiro de morte está por toda parte; ameaça me consumir. Preciso escapar deste inferno!
+		1	1	0	NV_ID_0312			<CB=BGM_EID_1500_a0108_03>		-1	0	0	0		Rastejando de quatro como um animal, contendo gritos para que nenhuma imundície entre na minha boca, avanço aos trancos pelas águas vermelhas e saio da sala rumo à liberdade.
+1084	1085	1	1	0	NV_ID_0315					-1	0	0	0		No fim do caminho...
+1085	1086	1	1	0	NV_ID_0317					-1	0	0	0		Vejo-me num grande salão com apenas o som da chuva como consolo. O tapete vermelho encharcado range sob meus pés quando me aproximo do centro da sala. <STOP>Lá, contemplo uma bela mesa de jantar sobre a qual repousam porcelana e prataria da mais fina fabricação, além dos restos de um banquete fantástico. <STOP>Enquanto meus olhos continuam a se ajustar, vejo muitas cadeiras ao redor da mesa, cada uma ocupada por um convidado.
+
+
+<PAGE>Percebendo movimento, aproximo-me da cadeira à cabeceira da mesa. Mas quando a verdade me atinge, recuo horrorizado. <STOP>O anfitrião do banquete é um cadáver, assim como todos os convidados. Um exército de insetos imundos e rastejantes fez morada em seus restos, e este era o movimento que vi.
+1086	1087	1	1	0	NV_ID_0318					-1	0	0	0		Este banquete outrora esplêndido não era agora mais que um réquiem para os condenados.<PAGE>
+		1	1	0	NV_ID_0319					-1	0	0	0		Tomo um momento para firmar as mãos trêmulas e então recuo devagar da mesa. <STOP>Desesperada para perder de vista a abominação diante de mim, meu olhar pousa nas cadeiras em que os mortos estavam sentados. <STOP>É um erro, pois as cadeiras se mostram ainda mais terríveis que o próprio banquete.
+		1	1	0	NV_ID_0320					-1	0	0	0		Cada uma está coberta por uma camada de espetos que vai do assento, pelo encosto e pelos braços. <STOP>Isso explica a cor do tapete sob os meus pés. Só posso rezar para que os infelizes convivas estivessem mortos quando a refeição começou!
+1087	1102	1	1	0	NV_ID_0321					-1	0	0	0		Pois, se não, é fácil imaginar os gritos agonizantes que devem ter brotado de suas bocas.
+		1	1	0	NV_ID_0322					-1	0	0	0		Minha mente se agarra freneticamente à possibilidade de que essas almas tivessem cometido algum crime terrível pelo qual isto era punição. <STOP>Embora, na verdade, eu suspeite que não tinham cometido crime algum...
+		1	1	0	NV_ID_0323					-1	0	0	0		Não haveria amanhã para esses infelizes. Esta era a sua última ceia.
+1088	1089	1	1	0	NV_ID_0326					-1	0	0	0		No fim do caminho...
+		1	1	0	NV_ID_0328					-1	0	0	0		As águas sobem até a minha cintura, esgotando-me física e espiritualmente. Rezo para que esta seja a saída.<PAGE>
+		1	1	0	NV_ID_0329					-1	0	0	0		Por fim, não suporto mais a visão das águas e ergo os olhos. <STOP>Imaginem minha surpresa ao ver uma série de pinturas penduradas na parede de gesso desbotado! <STOP>Cada uma retrata uma pessoa no auge da vida, vestida com roupas da mais alta qualidade. Os estilos, porém, me são estranhos, levando-me a crer que essas pessoas viveram há muito, muito tempo.
+1089	1090	1	1	0	NV_ID_0330					-1	0	0	0		Um dos retratados usa uma roupa que me chama particular atenção. <STOP>É feita de um tecido fino e arejado, decorada com um motivo de flores e pássaros, enquanto em volta da cintura da figura há um cinto de couro da mais perfeita confecção. É um traje deslumbrante até pelos padrões modernos.<PAGE>
+		1	1	0	NV_ID_0331					-1	0	0	0		Enquanto contemplo o retrato, sou tomado pelo desejo de tocá-lo com as próprias mãos. <STOP>Porém, quando estendo um único dedo para a pintura, sou dominado por uma sensação muito desagradável. <STOP>Olhando de perto a imagem, vejo-a dobrar e distorcer na forma de outro dedo. Algo atrás do quadro está apontando para mim!
+1090	1091	1	1	0	NV_ID_0332					-1	0	0	0		Será outro prisioneiro? Um companheiro de cárcere preso por toda a eternidade neste lugar? <STOP>Não posso deixar passar, então agarro o retrato com as duas mãos e o atiro na água. <STOP>A parede é oca atrás da pintura, e lá dentro mal consigo distinguir um corpo. Seja ou não um prisioneiro, não haveria resgate. Esta pobre alma morreu há muito tempo.
+		1	1	0	NV_ID_0333					-1	0	0	0		Retalhos de roupa jazem no chão ao redor dos ossos. Só uma pequena parte do tecido sobreviveu, mas apresenta os mesmos desenhos delicados retratados no quadro.
+1091	1103	1	1	0	NV_ID_0334					-1	0	0	0		Estive admirando uma fileira de cadáveres, escondidos da vista por retratos de cada vítima no auge.
+		1	1	0	NV_ID_0335					-1	0	0	0		Chega! Protegendo os olhos, avanço remando pela água.
+1092		1	1	0	NV_ID_0338					-1	0	0	0		A água subiu até o meu queixo e agora lambe avidamente a minha boca e o meu nariz.
+		1	1	0	NV_ID_0339					-1	0	0	0		"Seu burro de mer...!", grita <NIER>. Certamente queria dizer mais, mas o resto do insulto é cortado pela água que sobe.
+		1	1	0	NV_ID_0340					-1	0	0	0		Grimoire Weiss, molhado e esfarrapado, flutua na superfície da água. <STOP>Já é tarde demais para ele.
+		1	1	0	NV_ID_0342					-1	0	0	0		Não era...<WAIT=0.5>a<WAIT=0.033>s<WAIT=0.033>s<WAIT=0.033>i<WAIT=0.033>m <WAIT=0.067>q<WAIT=0.033>u<WAIT=0.033>e <WAIT=0.067>d<WAIT=0.033>e<WAIT=0.033>v<WAIT=0.033>i<WAIT=0.033>a <WAIT=0.067>a<WAIT=0.033>c<WAIT=0.033>a<WAIT=0.033>b<WAIT=0.033>a<WAIT=0.033>r<WAIT=0.033>.<WAIT=0.033>.<WAIT=0.033>.
+1093	1094	1	1	0	NV_ID_0346			<CB=NPC_PARTS_INVISIBLE>		-1	0	0	0		Contra toda esperança, chegamos à porta da frente.
+		1	1	0	NV_ID_0347					-1	0	0	0		"Arrombem!", grita alguém, e então me entrego ao esforço.
+		1	1	0	NV_ID_0348					-1	0	0	0		Em conjunto com <NIER> e Grimoire Weiss, lanço o corpo contra a porta grossa e robusta. Na terceira tentativa ela cede, e nos vemos estatelados diante do castelo.
+		1	1	0	NV_ID_0349					-1	0	0	0		A tempestade está em retirada. As nuvens acima ainda são escuras e agourentas, mas a oeste vejo um tênue brilho de sol tentando romper.
+1094	1095	1	1	0	NV_ID_0350					-1	0	0	0		"Como posso agradecer?", grito enquanto lágrimas se juntam à chuva em meu rosto. "Certamente eu teria morrido lá dentro."
+<STOP>Olhando para baixo, noto de repente que meu vestido está em farrapos e tento, constrangida, cobrir a pele exposta.
+		1	1	0	NV_ID_0351					-1	0	0	0		"Seu vestido?", pergunta Weiss. "Então a senhora é uma mulher, madame?"
+		1	1	0	NV_ID_0352					-1	0	0	0		"Sim, sou." <STOP>Ofereço aos dois um sorriso. "Suponho que isso seja uma surpresa, visto que existo apenas na forma de palavras."<PAGE>
+		1	1	0	NV_ID_0353					-1	0	0	0		Vejo que aquele conhecido como <NIER> está decepcionado porque o vestido rasgado não receberá mais descrição, mas ele disfarça bem. Com um aceno e um dar de ombros, nós três partimos rumo ao nosso despertar.
+1095	1096	1	1	0	NV_ID_0355					-1	0	0	0		Mas atrás de nós, um despertar de outro tipo está ocorrendo.
+		1	1	0	NV_ID_0357					-1	0	0	0		Fumaça negra preenche o castelo abandonado, concedendo às incontáveis almas condenadas lá dentro sua mortalha final.
+1096		1	1	0	NV_ID_0358					-1	0	0	0		Após um momento, as janelas do castelo se estilhaçam com um rugido poderoso. Uma brisa fresca sopra pelos corredores e salões, dissipando a fumaça de vez. <STOP>Enquanto observamos maravilhados, incontáveis sombras negras bruxuleiam lentamente à vida, cruzando de lá para cá diante das janelas quebradas.
+		1	1	0	NV_ID_0359				<CB=BG_AND_ENV_FADE_IN>
+<CB=BGM_C_FOREST_FIELD_01>
+<CB=LIB_SET_OPEN_2D_GAUGE_FAST>
+<CB=CHANGE_WINDOW_SIZE,0,1363,1008>	-1	0	0	0		Os mortos do castelo despertaram para sua nova vida... como Sombras.
+1097		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1105>...e sigo para o leste.</LIST>
+<LIST=1106>...e sigo para o sul.</LIST>
+<LIST=1107>...e sigo para o oeste.</LIST>
+<LIST=1108>...e sigo para o norte.</LIST>
+1098		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1108>...e sigo para o norte.</LIST>
+1099		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1105>...e sigo para o leste.</LIST>
+<LIST=1108>...e sigo para o oeste.</LIST>
+1100		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1105>...e sigo para o leste.</LIST>
+1101		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1105>...e sigo para o leste.</LIST>
+<LIST=1106>...e sigo para o sul.</LIST>
+<LIST=1107>...e sigo para o oeste.</LIST>
+1102		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1107>...e sigo para o oeste.</LIST>
+<LIST=1108>...e sigo para o norte.</LIST>
+1103		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1106>...e sigo para o sul.</LIST>
+1104		1	1	1						-1	0	0	0		Espio os corredores escuros...
+<LIST=1105>...e sigo para o leste.</LIST>
+<LIST=1106>...e sigo para o sul.</LIST>
+1105		2	1	1	E_DESTINATION				<CB=Labyrinth_Divergence,1>	-1	0	0	0		
+1106		2	1	1	S_DESTINATION				<CB=Labyrinth_Divergence,2>	-1	0	0	0		
+1107		2	1	1	W_DESTINATION				<CB=Labyrinth_Divergence,3>	-1	0	0	0		
+1108		2	1	1	N_DESTINATION				<CB=Labyrinth_Divergence,4>	-1	0	0	0		
+1109	1110	1	1	0	NV_ID_0362			<CB=BGM_EID_1500_a0118_01>
+<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		Uma colônia de enormes esculturas era visível ao longe, suas formas altas arranhando o céu. <STOP>Weiss e <NIER> nunca haviam visto tal visão, e seus olhos se arregalaram ao tentar absorvê-la.
+		1	1	0	NV_ID_0363					-1	0	0	0		"Ei, Weiss. A gente continua andando, mas essas coisas não chegam mais perto. <STOP>Não entendo. São mesmo tão grandes?"
+		1	1	0	NV_ID_0364					-1	0	0	0		Enquanto Weiss considerava a resposta, o sol castigava os dois com renovada ferocidade.
+1110	1111	1	1	0	NV_ID_0365					-1	0	0	0		"Talvez sejam algum tipo de miragem", disse.
+		1	1	0	NV_ID_0366					-1	0	0	0		"Sob este calor, uma ou duas miragens dificilmente seriam uma visão inesperada."
+		1	1	0	NV_ID_0367					-1	0	0	0		<NIER> assentiu e enxugou o suor da testa, deixando em seu lugar uma trilha de areia. Pensou que nunca tivera tanta sede.
+1111	1112	1	1	0	NV_ID_0370					-1	0	0	0		A antiga estrada em que caminhavam era negra e rachada pela idade. Aqui e ali, finos tufos de grama brotavam pela superfície rochosa, como se desafiassem quem pusera aquele material sobre o seu lar.
+		1	1	0	NV_ID_0371					-1	0	0	0		O calor refletindo da estrada deixou <NIER> tonto.<PAGE>
+		1	1	0	NV_ID_0372					-1	0	0	0		De repente, ele caiu de joelhos e golpeou a superfície negra com a mão. <STOP>"Maldição!", disse. "Isto é uma piada!? Bem, não estou rindo!"
+		1	1	0	NV_ID_0373					-1	0	0	0		As reclamações já tinham começado.
+1112	1113	1	1	0	NV_ID_0374					-1	0	0	0		Weiss tentou não revirar muito os olhos. "Uma piada?", disse. <STOP>"Não. Nenhuma piada. Esta estrada leva à Cidade da Arte. <STOP>Talvez o próprio caminho seja simplesmente alguma grandiosa obra artística."
+		1	1	0	NV_ID_0375					-1	0	0	0		"Ah, qual é! Isso é uma merda e você sabe!"
+		1	1	0	NV_ID_0376					-1	0	0	0		"Possivelmente. Mas pensar assim talvez torne mais fácil de suportar."
+		1	1	0	NV_ID_0377					-1	0	0	0		<NIER> olhou para o rosto sorridente de Weiss, praguejou em silêncio e voltou a andar.
+1113	1114	1	1	0	NV_ID_0380					-1	0	0	0		Com o passar do tempo, os pés de <NIER> doíam mais, e a garganta ficava mais seca do que julgava possível. <STOP>Tentou não olhar além do próximo passo, porque a luz forte do sol o fazia hesitar em confiar nos próprios sentidos.
+		1	1	0	NV_ID_0381					-1	0	0	0		"Estamos definitivamente nos aproximando", disse Weiss num esforço para animar o companheiro. <STOP>"Sim, disso há certeza."<PAGE>
+		1	1	0	NV_ID_0382					-1	0	0	0		Encorajado, <NIER> ergueu o olhar. <STOP>De repente, parou de andar, preferindo ficar no meio da estrada de boca e olhos arregalados e o dedo apontando ao longe.
+		1	1	0	NV_ID_0383					-1	0	0	0		"Água!", gritou! "É água!"
+		1	1	0	NV_ID_0384					-1	0	0	0		"Água?", perguntou Weiss. "Absurdo. Não vejo água alguma."
+		1	1	0	NV_ID_0385					-1	0	0	0		"Está bem ali, idiota! Não consegue ver!? Olhe, o sol está refletindo nela!"
+1114	1115	1	1	0	NV_ID_0386					-1	0	0	0		Sem esperar resposta, <NIER> ganhou vida e saltou em direção à visão.
+		1	1	0	NV_ID_0387					-1	0	0	0		"Que diabos..."
+		1	1	0	NV_ID_0388					-1	0	0	0		Não havia água. Não havia nada além de areia em todas as direções. <STOP><NIER> fechou os olhos e suspirou enquanto Weiss flutuava atrás dele, rindo baixinho.
+		1	1	0	NV_ID_0389					-1	0	0	0		"Creio que isso se chama miragem", disse. "Muitos viajantes do deserto já falaram de tais coisas."<PAGE>
+		1	1	0	NV_ID_0390					-1	0	0	0		<NIER> balançou a cabeça, atônito. De repente apontou ao longe, os olhos arregalados novamente.
+		1	1	0	NV_ID_0391					-1	0	0	0		"Espere, ali está! Perdi por pouco! Olhe, está <FONT=ITALIC>bem ali!"</FONT>
+		1	1	0	NV_ID_0392					-1	0	0	0		<NIER> disparou de novo, deixando Weiss sem escolha a não ser seguir.
+1115	1116	1	1	0	NV_ID_0393					-1	0	0	0		Depois de alguns minutos correndo, <NIER> parou.
+		1	1	0	NV_ID_0394					-1	0	0	0		"Eu podia jurar que era bem por aqui..."
+		1	1	0	NV_ID_0395					-1	0	0	0		Confuso, levou as mãos aos olhos e os esfregou vigorosamente. <STOP>Assim que parou, notou uma poça azul e cintilante de água clara logo depois da próxima elevação. <STOP>Com um grito, saiu aos saltos à procura dela.<PAGE>
+		1	1	0	NV_ID_0396					-1	0	0	0		A perseguição continuou por quase uma hora, até que um exasperado Weiss finalmente flutuou até <NIER> e o atingiu no rosto com a capa.
+		1	1	0	NV_ID_0397					-1	0	0	0		"Seu maldito idiota tagarela! Pare com isto imediatamente! <STOP><FONT=ITALIC>Não</FONT> <WAIT=0.5><FONT=ITALIC>há</FONT> <WAIT=0.5><FONT=ITALIC>água</FONT> <WAIT=0.5><FONT=ITALIC>aqui!</FONT>"
+		1	1	0	NV_ID_0398					-1	0	0	0		O rosto de <NIER> se anuviou. "Não... não há?"
+1116	1117	1	1	0	NV_ID_0399					-1	0	0	0		"Não há! E talvez da próxima vez você me escute quando eu lhe disser isso!" <STOP>Weiss fez uma pausa e continuou falando num tom um pouco mais gentil. <STOP>"Contudo, suponho que esta perseguição louca não foi totalmente em vão: parece que chegamos à Cidade da Arte."<PAGE>
+		1	1	0	NV_ID_0400					-1	0	0	0		<NIER> olhou para cima. Diante dele se estendia uma fileira de esculturas impossivelmente altas. <STOP>A jornada deles chegara ao fim.
+		1	1	0	NV_ID_0401					-1	0	0	0		"São enormes!", gritou <NIER>, esquecendo por completo o calor e a dor das últimas horas. "Eu... nunca vi nada tão grande!"<PAGE>
+1117	1118	1	1	0	NV_ID_0404					-1	0	0	0		Cada escultura era formada aproximadamente da mesma forma — um retângulo alto que se estendia rumo ao céu — mas era aí que as semelhanças acabavam. <STOP>A maioria estava coberta de vidraças que refletiam a luz em mil direções, enquanto outras pareciam ser apenas armações de aço. <STOP>Algumas tinham altas agulhas no topo, enquanto outras possuíam coberturas triangulares.<PAGE>
+		1	1	0	NV_ID_0405					-1	0	0	0		"Que tipo de cidade é esta?", disse <NIER>. "Onde está o povo? Onde estão as casas?"
+		1	1	0	NV_ID_0406					-1	0	0	0		"Talvez a terra se destine exclusivamente ao uso artístico."
+		1	1	0	NV_ID_0407					-1	0	0	0		O debate continuou enquanto atravessavam a cidade.
+1118	1119	1	1	0	NV_ID_0408					-1	0	0	0		Milagres de arte estavam por toda parte. Grandes caixas de ferro com rodas jaziam silenciosas sobre trilhos de aço. Obras lindamente entalhadas, com luzes vermelhas, âmbar e verdes, pendiam sobre todas as ruas. <STOP>Ao se afastarem das esculturas imensas, encontraram uma grande variedade de menores. <STOP>Algumas eram cobertas de vidro ou tijolo, mas muitas eram compostas de materiais que nunca tinham encontrado. A pura variedade de cores e estilos era impressionante.<PAGE>
+		1	1	0	NV_ID_0409					-1	0	0	0		Incapazes de achar um tema ou propósito nas obras abstratas ao redor, <NIER> e Weiss acabaram por se calar.
+1119	1120	1	1	0	NV_ID_0412					-1	0	0	0		Nos arredores da cidade, descobriram três esculturas em forma humana. <NIER> soltou um suspiro de alívio ao se aproximar.
+		1	1	0	NV_ID_0413					-1	0	0	0		"Finalmente. Eu estava cansado de arte moderna."
+		1	1	0	NV_ID_0414					-1	0	0	0		As três estátuas eram indistinguíveis, exceto por uma única palavra cinzelada em seus braços direitos. Uma dizia Alfa, outra dizia Beta e a última dizia Gama.
+1120	1121	1	1	0	NV_ID_0417			<CB=BGM_C_FOREST_FIELD_FO>		-1	0	0	0		Quando <NIER> foi tocar a estátua mais próxima, um pássaro voou do topo de uma das esculturas. Pousando no ombro da estátua, emitiu uma breve e bela canção que tomou a forma de palavras.
+		1	1	0	NV_ID_0419					-1	0	0	0		"Só uma forma é real. As outras são falsas."
+		1	1	0	NV_ID_0420					-1	0	0	0		"A forma real sempre dirá a verdade."
+		1	1	0	NV_ID_0421					-1	0	0	0		"As falsas só dirão mentiras."
+1121	1122	1	1	0	NV_ID_0423					-1	0	0	0		Com isso, o pássaro partiu. Como se fosse deixa, as três estátuas estremeceram à vida, adquirindo cor e forma ao começarem a respirar.
+		1	1	0	NV_ID_0424			<CB=BGM_EID_1500_a0118_02>		-1	0	0	0		"Ei, olhe só", disse <NIER>. "Estão vivas."
+		1	1	0	NV_ID_0425					-1	0	0	0		Os trigêmeos se curvaram diante de <NIER>.
+1122	1123	1	1	0	NV_ID_0427					-1	0	0	0		"Por favor!", disse Alfa. "Você tem que me tirar deste pesadelo! Eu sou real!"
+		1	1	0	NV_ID_0428					-1	0	0	0		"Pare de mentir!", disse Beta. Virou-se para <NIER> e ergueu as mãos para o ar. "O Alfa é falso, sabe. Eu sou o real!"
+		1	1	0	NV_ID_0429					-1	0	0	0		"Que monte de merda", disse Gama. "O Beta é falso! Todo mundo sabe que eu sou o único real por aqui."
+		1	1	0	NV_ID_0431					-1	0	0	0		Feitos seus respectivos apelos, as três estátuas voltaram ao estado congelado enquanto o silêncio envolvia a cidade mais uma vez.<PAGE>
+		1	1	0	NV_ID_0432					-1	0	0	0		"Considerando todas as declarações, só uma delas pode ser a verdadeira", disse Weiss.
+		1	1	0	NV_ID_0433					-1	0	0	0		<NIER> franziu as sobrancelhas e ponderou a resposta.
+1123		1	1	0	NV_ID_0434					-1	0	0	0		"Só uma forma é real. As outras são falsas."
+"A forma real sempre dirá a verdade."
+"As falsas só dirão mentiras."
+
+		1	1	0						-1	0	0	0		<LIST=1124>"A real é a Alfa."</LIST>
+<LIST=1127>"A real é a Beta."</LIST>
+<LIST=1125>"A real é a Gama."</LIST>
+<LIST=1126>"Não faço ideia..."</LIST>
+1124		1	1	0	NV_ID_0441					-1	0	0	0		"A real é a Alfa."
+		1	1	0	NV_ID_0443					-1	0	0	0		Os olhos das estátuas brilharam com uma luz sinistra.
+		1	1	0	NV_ID_0444				<CB=BG_AND_ENV_FADE_IN>
+<CB=BGM_C_FOREST_FIELD_01>
+<CB=LIB_SET_OPEN_2D_GAUGE_FAST>
+<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		A luz foi ficando cada vez mais forte, até que <NIER> e Weiss foram obrigados a desviar o rosto.
+1125		1	1	0	NV_ID_0447					-1	0	0	0		"A real é a Gama."
+		1	1	0	NV_ID_0449					-1	0	0	0		Os olhos das estátuas brilharam com uma luz sinistra.
+		1	1	0	NV_ID_0450				<CB=BG_AND_ENV_FADE_IN>
+<CB=BGM_C_FOREST_FIELD_01>
+<CB=LIB_SET_OPEN_2D_GAUGE_FAST>
+<CB=CHANGE_WINDOW_SIZE,0,1364,1012>	-1	0	0	0		A luz foi ficando cada vez mais forte, até que <NIER> e Weiss foram obrigados a desviar o rosto.
+1126	1119	1	1	0	NV_ID_0453					-1	0	0	0		"Não faço ideia..."
+		1	1	0	NV_ID_0455					-1	0	0	0		<NIER> olhou longamente as estátuas e tentou limpar a mente.
+1127	1128	1	1	0	NV_ID_0460					-1	0	0	0		"A real é a Beta."
+		1	1	0	NV_ID_0461					-1	0	0	0		Embora a voz de <NIER> traísse uma notável falta de confiança, ele ficou aliviado ao ver Weiss assentindo para ele.
+		1	1	0	NV_ID_0462					-1	0	0	0		"Se Alfa dissesse a verdade", começou Weiss no tom seco de um palestrante, "Beta e Gama seriam falsos. Mas nesse caso, a afirmação de Gama de que Beta é falso seria verdade, embora Gama seja mentiroso. Portanto, essa teoria desmorona."
+1128	1129	1	1	0	NV_ID_0463					-1	0	0	0		"Agora presumamos que Gama disse a verdade. Isso faz de Alfa e Beta mentirosos. Nessa situação, porém, Beta chama Alfa de mentiroso, o que nos deixaria com duas estátuas dizendo a verdade."
+		1	1	0	NV_ID_0464					-1	0	0	0		"Por fim, presumamos que Beta diz a verdade. Nesse caso, as mentiras de Alfa e Gama fariam sentido. Portanto, Beta deve ser real."
+1129	1130	1	1	0	NV_ID_0466					-1	0	0	0		Quando Weiss terminou sua explicação, Alfa e Gama desmoronaram silenciosamente em pó, enquanto Beta voltava à vida.
+		1	1	0	NV_ID_0467					-1	0	0	0		"Parabéns, aldeão", disse Weiss em tom alegre. "Chegou a hora de despertar."
+		1	1	0	NV_ID_0468					-1	0	0	0		"Obrigado por me salvar!", gritou o aldeão.
+		1	1	0	NV_ID_0469					-1	0	0	0		Caiu de joelhos e baixou a cabeça o mais que pôde antes que um desconfortável <NIER> o puxasse de pé.
+1130	1131	1	1	0	NV_ID_0470					-1	0	0	0		"Por que você teve um sonho assim?", perguntou Weiss. "Já esteve nesta cidade antes?"
+		1	1	0	NV_ID_0471					-1	0	0	0		O aldeão olhou lentamente em volta para os objetos e esculturas bizarros que pontilhavam a paisagem, depois balançou a cabeça.
+		1	1	0	NV_ID_0472					-1	0	0	0		"Eu... acho que não. Quer dizer, é impossível, né!? Não há como eu ter estado num lugar assim... mas ao mesmo tempo, sinto que já vi isto antes."
+		1	1	0	NV_ID_0473					-1	0	0	0		"Déjà vu", murmurou <NIER>. "É igualzinho àquele maldito prefeito."
+1131		1	1	0	NV_ID_0474				<CB=BG_AND_ENV_FADE_IN>
+<CB=BGM_C_FOREST_FIELD_01>
+<CB=LIB_SET_OPEN_2D_GAUGE_FAST>
+<CB=CHANGE_WINDOW_SIZE,0,1364,1011>	-1	0	0	0		A vaga sensação de inquietação que atingira <NIER> durante o sonho do prefeito se espalhou mais uma vez por sua mente.
+1132		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1362>	<CB=SNID_1580_a0010_01_Select>	-1	0	0	0	26	Simplesmente não suporto mais uma dessas conversas infernais. Guardemos para outra hora.
+1133	1134	1	1	0	NV_ID_0477			<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		"Ah! Olá de novo! <STOP>Sabe, estive tentando descobrir um jeito de agradecer por me salvar, e acho que consegui. <STOP>Vamos erguer uma estátua de você! Terá três metros de altura e será de ouro puro. <STOP>Ah, e sei que você não tem cavalo, mas acho que vamos pôr você num mesmo assim. Cavalos fazem as pessoas parecerem mais heroicas, sabe?"<PAGE>
+		1	1	0	NV_ID_0478					-1	0	0	0		"Como assim? Você não quer uma estátua? <STOP>Ah. Achei que você ia gostar muito."
+		1	1	0	NV_ID_0479					-1	0	0	0		"Seja como for, graças aos seus esforços incansáveis, nossa vila está em paz mais uma vez. E de pés quentes. <STOP>Ah há há! Essa foi uma pequena piada agrícola."<PAGE>
+1134	1135	1	1	0	NV_ID_0481					-1	0	0	0		"Enfim, tenho pensado em outras coisas além de piadas ruins e estátuas. Também decidi que precisamos voltar a fazer o festival da vila. <STOP>Fazíamos todo ano, mas o último prefeito achava antiquado ou algo assim e o acabou. <STOP>Mas como agora sou o prefeito, posso retomá-lo! <STOP>Isso não é abuso de poder nem nada, é?"<PAGE>
+1135	1136	1	1	0	NV_ID_0482					-1	0	0	0		"O que foi? Quer ouvir sobre o festival? <STOP>Bem, o nome oficial é O Banquete dos Três Dias. Chamamos assim porque todos se sentam ao redor de uma enorme mesa e comem por três dias seguidos. Sem dormir! <STOP>Ah, e fazemos nos dias mais nebulosos do ano, então é difícil saber o que se está comendo. <STOP>Alguns pratos são deliciosos, mas outros são muito raros e... bem, tem umas coisas estranhas neles. Vamos deixar assim. <STOP>Enfim, você ficaria bem surpreso com o que se consegue comer quando não se dorme há uns dias."<PAGE>
+		1	1	0	NV_ID_0483					-1	0	0	0		"Vou garantir que um quarto seja preparado para você ser o convidado de hon... <STOP>O quê? Você não pode vir? <STOP>Tem que lavar o cabelo? <STOP>Ah. Tudo bem. Bem, acho que é compreensível. Com a aventura e tudo."
+1136		1	1	0	NV_ID_0485					-1	0	0	0		"Sinceramente, acho que esta cidade precisa de mais atividades de integração em grupo como essa. Ajudaria a nos conhecermos e também promoveria a união em tempos de crise e tal."<PAGE>
+		1	1	0	NV_ID_0487					-1	0	0	0		Weiss tossiu alto.
+		1	1	0	NV_ID_0488					-1	0	0	0		"Por quanto tempo mais teremos que suportar o insuportável bater de queixo deste tolo?", sussurrou para <NIER>.
+		1	1	0	NV_ID_0489					-1	0	0	0		"Ah, deixe ele falar. Acabou de acordar; o cara provavelmente tem muita coisa na cabeça."
+		1	1	0	NV_ID_0490					-1	0	0	0		Weiss suspirou.
+		1	1	0	NV_ID_0491				<CB=SNID_1580_a0010_01_End>	-1	0	0	0		"Deve ser isto o que a Popola quis dizer com brilhante e falante..."
+1137		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1363>	<CB=SNID_1580_a0010_02_Select>	-1	0	0	0	26	Simplesmente não suporto mais uma dessas conversas infernais. Guardemos para outra hora.
+1138	1139	1	1	0	NV_ID_0494			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		"Ah! É você! Posso falar com você um minuto? <STOP>Aqui, por aqui."
+		1	1	0	NV_ID_0495					-1	0	0	0		"Estes são meus vizinhos. Eu estava contando a eles sobre o sonho que tive. <STOP>Sabe? Aquele de que você me resgatou?"
+1139	1140	1	1	0	NV_ID_0496					-1	0	0	0		"...Eles não acreditam em mim. Dizem que estou inventando tudo. <STOP>Quem poderia inventar algo assim? Eu me lembro da escuridão. Eu me lembro dos gritos. <STOP>Escute, você tem que me apoiar aqui. Eles acham que sou louco. Precisam entender."
+1140	1141	1	1	0	NV_ID_0498					-1	0	0	0		"Conte a eles como você me tirou daquela cela e havia água por toda parte, e como ela subia tão rápido. <STOP>Parte de mim estava convencida de que você me resgatara só para me deixar afogar, sabe? Não quero me afogar. As pessoas falam como é pacífico, mas acho que estão mentindo."
+		1	1	0	NV_ID_0500					-1	0	0	0		"E conte a eles sobre os corpos. <STOP>Os corpos... Ah, deuses, havia tantos..."
+1141	1142	1	1	0	NV_ID_0501					-1	0	0	0		"Havia a sala com as camas e os cadáveres. Como pedaços de carvão... <STOP>Fico pensando no fogo e em como devia estar quente, mas aí não quero mais lembrar, então penso no vinho. <STOP>Só que não era vinho; era sangue, e ainda estava quente. <STOP>Às vezes ainda sinto o cheiro. Estarei comendo um pedaço de torta ou algo assim, e tudo que sinto é aquele sangue quente se misturando com a água que sobe. <STOP>Agora é difícil comer.<PAGE>"Quando vejo uma mesa, penso naquele banquete, nos convidados e em como o tapete chiava sob meus pés quando andei. <STOP>Não sei. É estranho. <STOP>Os quadros talvez sejam o pior. Fico me perguntando se sabiam que iam morrer e como podiam ficar parados sabendo que cada pincelada era um passo mais perto da morte. <STOP>Penso nisso muito agora. Na verdade, tenho dificuldade de pensar em outra coisa. <STOP>Não durmo muito. Dormir é difícil. Vejo coisas tão terríveis quando fecho os olhos.<PAGE>"Enfim, eu esperava que você contasse aos meus vizinhos para que eles... <STOP>Hmm? Para onde eles foram?"
+1142		1	1	0	NV_ID_0503					-1	0	0	0		"Eles saíram há um tempo", disse <NIER> baixinho.
+		1	1	0	NV_ID_0504					-1	0	0	0		"Sem dúvida acham o seu sonho um tanto... perturbador", disse Weiss. "Talvez pudesse achar outro assunto para conversar com eles, mmm? Como o clima. Ou gatinhos."
+		1	1	0	NV_ID_0505				<CB=SNID_1580_a0010_02_End>	-1	0	0	0		A aldeã sorriu suavemente para <NIER>, mas o sorriso logo sumiu de seu rosto. Enquanto os dois recuavam devagar, viram lágrimas começando a cair dos cantos de seus olhos.
+1143		0	1	0	EID_all_worry02_BOOKW010_Y			<CB=SET_ACTOR_PAUSE_ON,1364>	<CB=SNID_1580_a0010_03_Select>	-1	0	0	0	26	Simplesmente não suporto mais uma dessas conversas infernais. Guardemos para outra hora.
+1144	1145	1	1	0	NV_ID_0508			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		"Ah, ei! É você! O cara que me salvou daquela cidade maluca! <STOP>É ótimo falar com você de novo. Você é meu herói, sabia? <STOP>Ah, vamos, não seja tímido. Tudo bem. O prefeito até disse que vamos construir uma estátua sua e tudo!"
+1145	1146	1	1	0	NV_ID_0509					-1	0	0	0		"Ouvi dizer que você tem viajado pelo mundo. Que bom para você! <STOP>Viajar é a chave da felicidade, sabe? Sair pelo mundo, conhecer outros humanos cara a cara... Muda mesmo a forma como se vê as coisas. Acho que uma mudança assim será vital no novo mundo que vem aí. <STOP>Como assim? Eu? Não, nunca viajei. Nunca saí desta vila, para falar a verdade. Mesmo assim, gostaria de sair um dia."
+1146	1147	1	1	0	NV_ID_0510					-1	0	0	0		"Acho que o nosso mundo está morrendo. Sério! Pense nisso! <STOP>Tem o Rabisco Negro, as Sombras, as doenças misteriosas como o Sonho Mortal... É como se algo estivesse tentando nos dar um aviso."
+		1	1	0	NV_ID_0511					-1	0	0	0		"Aliás, tenho certeza de que isto é um aviso. Precisamos mudar nossos hábitos antes que seja tarde demais!"
+1147	1148	1	1	0	NV_ID_0512					-1	0	0	0		"Eu gostaria de ajudar a mudar o mundo, mas sou só um aldeão simples. Não como vocês! Estão na linha de frente de tudo, correndo com espadas e feitiços e coisas assim. <STOP>Ei, já sei! Talvez a gente possa unir forças e mudar o mundo juntos! Quer dizer, com a sua experiência e talento e o meu... hã... bem, o que eu tiver. <STOP>Enfim, acho que poderíamos realmente fazer a diferença."
+1148	1149	1	1	0	NV_ID_0513					-1	0	0	0		"Este mundo precisa de um líder; alguém que una as pessoas num propósito comum. <STOP>Provavelmente teria que ser meio durão também. Quer dizer, este não é um mundo que aprecia discussão calma, sabe? <STOP>Também precisaria ser inteligente e ter a capacidade de olhar adiante e pensar no que é melhor para o futuro. <STOP>Aposto que você seria perfeito! O que me diz!?"
+1149	1150	1	1	0	NV_ID_0514					-1	0	0	0		"...Hã? Você acha que <FONT=ITALIC>eu</FONT> deveria fazer isso? <STOP>Ah, não! Não, isso não é... <STOP>Quer dizer, valeu e tudo, mas não, obrigado. Não sou do tipo que gosta dos holofotes. <STOP>Prefiro ficar nos bastidores e ajudar de lá. Sabe! Como um conselheiro ou um mestre de marionetes ou como se chamam. <STOP>Na verdade, acho que eu seria muito bom nisso."
+1150		1	1	0	NV_ID_0516					-1	0	0	0		<NIER> e Weiss foram embora antes que o aldeão pudesse lhes entregar uma cópia do seu panfleto, "Dez Maneiras Simples de Salvar o Mundo."
+		1	1	0	NV_ID_0517					-1	0	0	0		Enquanto caminhavam, Weiss ponderou abertamente sobre o homem.
+		1	1	0	NV_ID_0518				<CB=SNID_1580_a0010_03_End>	-1	0	0	0		"Suponho que ele seja o que chamam de general de poltrona."
+1151		0	1	0				<CB=SET_ACTOR_PAUSE_ON,1362>		-1	0	0	0		<LIST=1152>Falar</LIST>
+<LIST=1153>Não falar</LIST>
+1152		2	1	0	SNID_1580_a0010_01_0006_010			<CB=SET_ACTOR_PAUSE_ON,1362>	<CB=SNID_1580_a0010_01_Select01>	-1	0	0	0		
+1153		2	1	0	SNID_1580_a0010_01_0007_010				<CB=SNID_1580_a0010_01_Select02>	-1	0	0	0		
+1154		0	1	0	EID_4500_a0400_0055			<CB=SET_ACTOR_PAUSE_ON,1363>		-1	0	0	0		<LIST=1155>Falar</LIST>
+<LIST=1156>Não falar</LIST>
+1155		2	1	0	SNID_1580_a0010_02_0006_010			<CB=SET_ACTOR_PAUSE_ON,1363>	<CB=SNID_1580_a0010_02_Select01>	-1	0	0	0		
+1156		2	1	0	SNID_1580_a0010_02_0007_010				<CB=SNID_1580_a0010_02_Select02>	-1	0	0	0		
+1157		0	1	0	EID_4500_a0400_0055			<CB=SET_ACTOR_PAUSE_ON,1364>		-1	0	0	0		<LIST=1158>Falar</LIST>
+<LIST=1159>Não falar</LIST>
+1158		2	1	0	SNID_1580_a0010_03_0006_010			<CB=SET_ACTOR_PAUSE_ON,1364>	<CB=SNID_1580_a0010_03_Select01>	-1	0	0	0		
+1159		2	1	0	SNID_1580_a0010_03_0007_010				<CB=SNID_1580_a0010_03_Select02>	-1	0	0	0		
+1160	1142	1	1	0	NV_ID_0501_2					-1	0	0	0		
+1161		0	1	0	EID_1500_a0200_0036_Y					-1	0	-1	0	2	Para um Verso Selado, isso não deu muito trabalho.
+		0	1	0	EID_1500_a0200_0037_Y					-1	0	0	0	26	Sim... tudo um pouco fácil demais, se quer saber.
+		0	1	0	EID_1500_a0200_0038_Y					-1	0	0	0	26	É quase como se alguém nos guiasse até esta vila...
+		0	1	0	EID_1500_a0200_0039_Y					-1	0	-1	0	2	Você pensa demais, Weiss.

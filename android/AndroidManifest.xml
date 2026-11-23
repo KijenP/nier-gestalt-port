@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NieR Gestalt, the game: SDLActivity (SDL3's Java side) loading libmain.so. Built without Gradle by
+     build-apk.ps1: as out\nier-test.apk (for development) and as the base Project Gestalt turns into the player's
+     "NieR Gestalt" app on the phone (the disc's icon in place of res/mipmap-xxxhdpi/ic_launcher.png). -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nierport.gestalt"
+    android:versionCode="2"
+    android:versionName="0.2">
+
+    <uses-sdk android:minSdkVersion="30" android:targetSdkVersion="34" />
+
+    <uses-feature android:name="android.hardware.vulkan.version" android:version="0x401000" android:required="true" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.gamepad" android:required="false" />
+    <uses-feature android:name="android.hardware.usb.host" android:required="false" />
+    <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- The game (the player's ISO in shared storage) is read and memory-mapped directly; files copied over USB /
+         by other apps aren't readable with scoped storage only. -->
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:label="NieR Gestalt"
+        android:icon="@mipmap/ic_launcher"
+        android:hasCode="true"
+        android:extractNativeLibs="true"
+        android:largeHeap="true"
+        android:appCategory="game"
+        android:isGame="true"
+        android:hardwareAccelerated="true"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        <!-- Test build: lets simpleperf (adb shell) sample the game. -->
+        <profileable android:shell="true" />
+        <!-- The launcher: permission and the player's copy first (SetupActivity.java), then the game. -->
+        <activity
+            android:name="com.nierport.gestalt.SetupActivity"
+            android:exported="true"
+            android:label="NieR Gestalt"
+            android:launchMode="singleTop"
+            android:screenOrientation="userLandscape"
+            android:theme="@android:style/Theme.Material.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nierport.gestalt.NierActivity"
+            android:exported="false"
+            android:label="NieR Gestalt"
+            android:screenOrientation="userLandscape"
+            android:alwaysRetainTaskState="true"
+            android:launchMode="singleInstance"
+            android:preferMinimalPostProcessing="true"
+            android:configChanges="layoutDirection|locale|grammaticalGender|fontScale|fontWeightAdjustment|orientation|uiMode|screenLayout|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation">
+        </activity>
+    </application>
+</manifest>

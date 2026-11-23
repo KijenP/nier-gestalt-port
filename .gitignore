@@ -1,0 +1,48 @@
+# Never commit game data or recompiled output.
+generated/
+build/
+out/
+game/
+.sdk/
+recordings/
+*.xex
+*.iso
+*.pk4
+*.xpr
+*.wmv
+*.xma
+*.xwb
+*.xsb
+*.xgs
+*.dll
+*.exe
+*.pdb
+*.log
+*.profraw
+# Game art made from the user's disc (translations' images, mods) stays out too.
+*.2dp
+*.2dv
+*.mdp
+*.mdv
+*.cpk
+# Game shaders (captured while playing, or extracted): the game's own code.
+shader_capture/
+*.bin
+# The player's own files: settings, layouts, achievements, saves.
+nier.toml
+nier.toml.*
+touch_controls.txt
+achievements.txt
+achievements.txt.*
+# Translation tables made from the game's text (TEXT\<language>) are generated on the player's PC.
+*.txd
+# Local notes and tools of this machine.
+.claude/
+LANCAMENTO.md
+OTIMIZACOES.md
+
+# The Portuguese translation ships as a folder (2026-11-14, the user's decision): only the files it changes.
+!traducao/**
+
+# Third-party sample binaries
+thirdparty/plume/contrib/VulkanMemoryAllocator/bin/
