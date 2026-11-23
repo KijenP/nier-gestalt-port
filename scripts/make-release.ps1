@@ -19,7 +19,9 @@ if (-not $SkipBuild) {
   if ($LASTEXITCODE) { throw 'PC build failed' }
   cmd /c "call `"$root\scripts\env.cmd`" && cmake --build `"$android`" 2>&1"
   if ($LASTEXITCODE) { throw 'Android build failed' }
-  & "$root\android\build-apk.ps1" -Build $android 2>&1 | Out-Host
+  Push-Location $root
+  & "$root\android\build-apk.ps1" -Build 'out\build\android-arm64-h' 2>&1 | Out-Host  # relative to the repo
+  Pop-Location
   if (-not (Test-Path "$root\out\project-gestalt.apk") -or
       (Get-Item "$root\out\project-gestalt.apk").LastWriteTime -lt (Get-Date).AddMinutes(-30)) { throw 'APK failed' }
   $ErrorActionPreference = 'Stop'
